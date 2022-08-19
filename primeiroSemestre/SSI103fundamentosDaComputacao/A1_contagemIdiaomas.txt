@@ -1,0 +1,307 @@
+Contagem em português:
+
+1 um
+2 dois
+3 três
+4 quatro
+5 cinco
+6 seis
+7 sete
+8 oito
+9 nove
+10 dez
+
+11 onze
+12 doze
+13 treze
+14 quatorze
+15 quinze
+16 (10 e 6) dezesseis (dez e seis)
+17 (10 e 7) dezessete (dez e sete)
+18 (10 e 8) dezeioto (dez e oito)
+19 (10 e 9) dezenove (dez e nove)
+
+20 vinte
+21 (20 e 1) vinte e um
+22 (20 e 2) vinte e dois
+23 (20 e 3) vinte e três
+...
+30 trinta
+31 (30 e 1) trinta e um
+32 (30 e 2) trinta e dois
+33 (30 e 3) trinta e três
+...
+40 quarenta
+50 cinquenta
+60 sessenta
+70 setenta
+80 oitenta
+90 noventa
+...
+99 noventa e nove
+100 cem
+1000 mil
+
+
+Contagem em inglês:
+
+1 one
+2 two
+3 three
+4 four
+5 five
+6 six
+7 seven
+8 eight
+9 nine
+10 ten
+
+11 eleven
+12 twelve
+13 (3.10?) thirteen
+14 (4.10?) fourteen
+15 (5.10?) fifteen
+16 (6.10?) sixteen
+17 (7.10?) seventeen
+18 (8.10?) eightteen
+19 (9.10?) nineteen
+
+20 (2.10?) twenty
+21 (20.1)  twenty-one
+22 (20.2)  twenty-two
+23 (20.3)  twenty-three
+...
+30 (3.10?) thirty
+31 (30.1)  thirty-one
+32 (30.2)  thirty-two
+33 (30.3)  thirty-three
+...
+40 (4.10?) forty
+50 (5.10?) fifty
+60 (6.10?) sixty
+70 (7.10?) seventy
+80 (8.10?) eighty
+90 (9.10?) ninety
+
+100   one hundred  (a hundred)
+1 000 one thousand (a thousand)
+
+http://www.aprender-alemao.com/numerais-alemao.html
+http://www.languagesandnumbers.com/como-contar-em-alemao/pt/deu/
+http://idioma-alemao.blogspot.com.br/2010/03/contando-em-alemao-0-99.html
+http://www.babelmundo.com.pt/alemao/cursos/01_01_6.html
+
+
+Contagem em alemão:
+
+1 eins
+2 zwei
+3 drei
+4 vier
+5 fünf
+6 sechs
+7 sieben
+8 acht
+9 neun
+10 zehn
+
+11 elf
+12 zwölf
+13 (3.10) dreizehn
+14 (4.10) vierzehn
+15 (5.10) fünfzehn
+16 (6.10) sechzehn
+17 (7.10) siebzehn
+18 (8.10) achtzehn
+19 (9.10) neunzehn
+
+20 (2.10)   zwanzig
+21 (1 e 20) einundzwanzig
+22 (2 e 20) zweiundzwanzig
+23 (3 e 20) dreiundzwanzig
+...
+30 (3.10)   dreizig (ou dreißig)
+31 (1 e 30) einunddreißig
+32 (2 e 30) zweiunddreißig
+33 (3 e 30) dreiunddreißig
+...
+40 (4.10) vierzig
+50 (5.10) fünfzig
+60 (6.10) sechzig
+70 (7.10) siebzig
+80 (8.10) achtzig
+90 (9.10) neunzig
+
+100 hundert
+1 000 tausend
+
+http://www.aprender-alemao.com/numerais-alemao.html
+http://www.languagesandnumbers.com/como-contar-em-alemao/pt/deu/
+http://idioma-alemao.blogspot.com.br/2010/03/contando-em-alemao-0-99.html
+http://www.babelmundo.com.pt/alemao/cursos/01_01_6.html
+
+Contagem em francês:
+
+1  un
+2  deux
+3  trois
+4  quatre
+5  cinq
+6  six
+7  sept
+8  huit
+9  neuf
+10 dix
+
+11 onze
+12 douze
+13 treize
+14 catorze
+15 quinze
+16 seize
+17 (10.7) dix-sept
+18 (10.8) dix-huit
+19 (10.9) dix-neuf
+20 vingt
+
+21 (20.1) vingt-et-un
+22 (20.2) vingt-et-deux
+23 (20.3) vingt-et-trois
+24 (20.4) vingt-et-quatre
+...
+30 trente
+31 (30 e 1) trente-et-un 
+32 (30.2)   trente-deux
+33 (30.3)   trente-trois
+...
+40 quarante
+41 (40 e 1) quarante-et-un
+42 (40.2)   quarante-deux
+43 (40.3)   quarante-trois
+...
+50 cinquante
+60 soixante
+
+70 (60.10) soixante-dix (ou septante - nota 1)
+71 (60.11) soixante-et-onze
+72 (60.12) soixante-douze
+73 (60.13) soixante-treize
+74 (60.14) soixante-catorze
+75 (60.15) soixante-quinze
+76 (60.16) soixante-seize
+77 (60.10.7) soixante-dix-sept
+78 (60.10.8) soixante-dix-huit
+79 (60.10.9) soixante-dix-neuf
+
+80 (4.20)   quatre-vingts (ou huitante ou octante - nota 1)
+81 (4.20.1) quatre-vingt-et-un
+...
+90 (4.20.10) quatre-vingt-dix (ou nonante - nota 1)
+91 (4.20.11) quatre-vingt-onze
+92 (4.20.12) quatre-vingt-douze
+93 (4.20.13) quatre-vingt-treize
+94 (4.20.14) quatre-vingt-catorze
+95 (4.20.15) quatre-vingt-quinze
+96 (4.20.16) quatre-vingt-seize
+97 (4.20.10.7) quatre-vingt-dix-sept
+98 (4.20.10.8) quatre-vingt-dix-huit
+99 (4.20.10.8) quatre-vingt-dix-neuf
+100 cent
+200 deux-cents
+...
+900  neuf-cents
+1000 mille
+
+Nota 1: No francês usado fora da França (Suiça, Bélgica e Canadá) as formas septante, huitante/octante e nonante são usadas.
+
+https://pt.wikibooks.org/wiki/Franc%C3%AAs/Numerais_cardinais
+http://www.languagesandnumbers.com/como-contar-em-frances/pt/fra/
+
+Contagem em japonês:
+
+1 ichi (se lê “iti”)
+2 ni
+3 san
+4 shi ou yon
+5 go
+6 roku (o “ro” se lê como em “couro”, não como em “carro”)
+7 shichi (se lê “shiti”) ou nana
+8 hachi (se lê “hati”)
+9 kyuu ou ku
+10 juu
+
+11 (10.1) juu ichi
+12 (10.2) juu ni
+13 (10.3) juu san
+14 (10.4) juu yon
+15 (10.5) juu go
+16 (10.6) juu roku
+17 (10.7) juu nana
+18 (10.8) juu hachi
+19 (10.9) juu kyuu
+
+20 (2.10)   ni juu
+21 (2.10.1) ni juu ichi
+22 (2.10.2) ni juu ni
+23 (2.10.3) ni juu san
+...
+30 (3.10)   san juu
+31 (3.10.1) san juu ichi
+32 (3.10.2) san juu ni
+33 (3.10.3) san juu san
+...
+40 (4.10) yon   juu
+50 (5.10) go    juu
+60 (6.10) roku  juu
+70 (7.10) nana  juu
+80 (8.10) hachi juu
+90 (9.10) kyuu  juu
+...
+99 (9.10.9) Kyuu juu kyuu
+100 hyaku
+1000 sen
+
+http://www.judoinforme.com/contarjapa.html
+http://aulasdejapones.com.br/como-sao-os-numeros-em-japones/
+
+
+Contagem em guarani mbya (há pequenas diferenças conforme a fonte da informação):
+
+1 Peteí
+2 Mokoí
+3 Mboapy (mboapã)
+4 Irundy (irundã)
+
+5 (1.5)   Peteí po          (uma mão)
+6 (1.5.1) Peteí po peteí    (uma mão e um) ou Mboapy meme (dois três)
+7 (1.5.2) Peteí po Mokoí    (uma mão e dois) ou Mboapy meme peteĩ 
+8 (1.5.3) Peteí po Mboapy   (uma mão e três) ou Irundy meme
+9 (1.5.4) Peteí po Irundy   (uma mão e quatro) ou Irundy meme peteĩ
+
+10 (2.5)   Mokoí po         (duas mãos)
+11 (2.5.1) Mokoí po Peteí   (duas mãos e um)
+12 (2.5.2) Mokoí po Mokoí   (duas mãos e dois)
+13 (2.5.3) Mokoí po Mboapy  (duas mãos e três)
+14 (2.5.4) Mokoí po Irundy  (duas mãos e quatro)
+
+15 (3.5)   Mboapy po        (três mãos)
+16 (3.5.1) Mboapy po Peteí  (três mãos e um)
+17 (3.5.2) Mboapy po Mokoí  (três mãos e dois)
+18 (3.5.3) Mboapy po Mboapy (três mãos e três)
+19 (3.5.4) Mboapy po Irundy (três mãos e quatro)
+
+20 (4.5)   Irundy po        (quatro mãos)
+21 (4.5.1) Irundy po Peteí  (quatro mãos e um)
+22 (4.5.2) Irundy po Mokoí  (quatro mãos e dois)
+23 (4.5.3) Irundy po Mboapy (quatro mãos e três)
+24 (4.5.4) Irundy po Irundy (quatro mãos e quatro)
+
+Não encontrei informação como contar acima de 24.
+
+http://adamsdecio.blogspot.com.br/2014/12/contar-em-tupi-guarani.html
+https://guaraniuruity.wordpress.com/2011/06/27/historias-dos-numeros-guarani/
+http://tupiantigo.blogspot.com.br/2008/02/numerais.html
+http://solocorrientes.blogspot.com.br/2010/06/los-numeros-en-guarani.html
+
+
+

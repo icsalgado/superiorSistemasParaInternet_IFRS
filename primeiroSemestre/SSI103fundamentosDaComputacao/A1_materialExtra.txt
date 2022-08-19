@@ -1,0 +1,213 @@
+Material extra
+Sistemas de Numeração e Sistemas Digitais:
+
+Vídeos sobre sistemas digitais e sistemas de numeração:
+
+Sistemas de Numeração:
+https://www.youtube.com/watch?v=XZvOcJzVV2I&list=PL6B5ABD152CD0456C
+
+Eletrônica digital, álgebra booleana, portas lógicas, circuitos lógicos...:
+
+https://www.youtube.com/watch?v=aYVz0l3ZMWc&list=PLRKGEaxOX82miHxszeYs3nnjteIsSTzNu
+
+https://www.youtube.com/watch?v=i_Y8Tya_qf8&list=PL1IAWKHSkvMFeKzqiWHFLyEfC2Xkto-Kh
+Múltiplos Binários:
+
+Prefixes for binary multiples (The NIST Reference on Constants, Units, and Uncertainty)
+https://physics.nist.gov/cuu/Units/binary.html
+
+When is a kilobyte a kibibyte? And an MB an MiB?
+https://www.iec.ch/si/binary.htm
+
+When is a kilobyte a kibibyte? And an MB an MiB?https://web.archive.org/web/20090403051731/http://www.iec.ch/zone/si/si_bytes.htm
+
+Quantities and units
+http://www.iso.org/sites/JCGM/VIM/JCGM_200e_FILES/MAIN_JCGM_200e/01_e.html#L_1_6
+Ponto Flutuante:
+
+What Every Programmer Should Know About Floating-Point Arithmetic
+http://floating-point-gui.de/
+
+http://www.phys.uconn.edu/~rozman/Courses/P2200_14F/downloads/floating-point-guide-2014-11-03.pdf
+
+What Every Computer Scientist Should Know About Floating-Point Arithmetic
+http://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf
+
+Floating Point Demystified, Part 1
+http://blog.reverberate.org/2014/09/what-every-computer-programmer-should.html
+
+Sistemas de Numeração:  Como Funcionam e Como são Estruturados os Números.
+http://wwwp.fc.unesp.br/~mauri/TN/SistNum.pdf
+
+Sistemas de Numeração: Jogos e Aplicações (Vera Lucia Fernandes de Souza)
+http://www.mat.ufmg.br/~espec/monografiasPdf/Monografia_VeraLucia.pdf
+Ferramentas, Softwares, Aplicativos, ...:
+Calculadoras binárias e de ponto flutuante:
+
+http://www.binaryconvert.com/
+http://www.h-schmidt.net/FloatConverter/IEEE754.html
+http://www.h-schmidt.net/FloatApplet/IEEE754.html
+http://babbage.cs.qc.edu/IEEE-754/
+https://carlosrafaelgn.com.br/aula/flutuante.html
+http://webcalc.com.br/Matematica/form/notacao_numerica
+
+Calculadora ponto fixo:
+http://www.webcalc.com.br/frame.asp?pag=http://www.webcalc.com.br/matematica/notacao_numerica.html
+
+Calculadora de múltiplos binários e uma breve explicação de K,M,G,T e Ki,Mi,Gi,Ti (muito bom):
+http://www.dr-lex.be/info-stuff/bytecalc.html
+Editores/visualizadores hexadecimal online:
+
+https://hexed.it/
+Compiladores C online:
+
+https://www.onlinegdb.com/online_c_compiler
+
+https://www.programiz.com/c-programming/online-compiler/
+Sistemas Digitais
+
+Funções Lógicas e Portas Lógicas - José A. Baranauskas (FFCLRP-USP):
+http://dcm.ffclrp.usp.br/~augusto/teaching/aba/AB-Funcoes-Logicas-Portas-Logicas.pdf
+
+Circuitos Lógicas e Portas Lógicas - Daniel D. Silveira (UFJF):
+http://www.ufjf.br/daniel_silveira/files/2011/06/aula_2.pdf
+
+Fernanda Lima Kastensmidt - UFRGS:
+http://www.inf.ufrgs.br/~fglima/
+http://www.inf.ufrgs.br/~fglima/tecnicasdigitais.htm
+
+Profs. Fernando de Castro e Maria Cristina de Castro
+http://www.feng.pucrs.br/~decastro/download.html
+http://www.feng.pucrs.br/~decastro/pdf/ED_C1.pdf
+
+Bob Brown - Southern Polytechnic State University
+
+http://www.spsu.edu/cs/faculty/bbrown/
+http://www.spsu.edu/cs/faculty/bbrown/circuits/index.html
+Arquitetura de Computadores:
+
+Computadores Hipotéticos criados na UFRGS:
+http://www.inf.ufrgs.br/arq/wiki/doku.php
+
+Prof. Marcelo Cohen:
+https://www.inf.pucrs.br/flash/orgarq/apoio.html
+
+Prof. Fábio M. Costa:
+http://www.inf.ufg.br/~fmc/arqcomp/
+
+Biblioteca JavaScript para Portas Lógicas:
+https://www.npmjs.com/package/logic-circuit
+
+Lógica Matemática:
+http://www.pucsp.br/~logica/
+http://www.pucsp.br/~logica/Booleana.htm
+
+Prof. Ney Laert Vilar Calazans:
+http://www.inf.pucrs.br/~calazans/orgcomp_mat.html
+Simuladores:
+
+Simulador de circuitos digitais (.jar, necessita Java):
+http://www.cburch.com/logisim/
+
+Simulador de circuitos digitais online (interativo):
+https://logic.ly/demo/
+
+Simulador de circuitos digitais online (interativo, mas simbologia diferente):
+https://simulator.io
+
+Simulador de circuitos digitais online (não é interativo):
+https://circuitverse.org/
+
+Simulador de circuitos analógicos e digitais online (interativo):
+https://www.circuit-diagram.org/editor/
+
+Simulador de circuitos analógicos online:
+https://www.partsim.com/simulator
+
+Simulador de circuitos analógicos e digitais online (não é interativo):
+https://www.circuitlab.com/
+
+Simulador de circuitos online (antigo, necessita Adobe Flash):
+http://www.neuroproductions.be/logic-lab/
+
+Game e ferramenta bem simples para desenhar circuitos:
+http://www.inf.ufpr.br/andrey/OAs/wiry
+
+Multisim simulador de circuitos online (grátis mas necessita registro):
+https://www.multisim.com/
+
+Simulador de circuitos online (com chips e datasheets, necessita registro):
+https://library.io/
+
+DCLab (circuitos reais):
+https://dcaclab.com/en/home
+
+Simulador 6502 (Atari):
+http://skilldrick.github.io/easy6502/
+
+Bastante material e simuladores:
+http://www.course.com/downloads/computerscience/aeonline/topic.html
+http://www.estig.ipbeja.pt/~lmgt/sd/
+http://www.darkfader.net/toolbox/convert/
+
+Simulador Kands2:
+http://users.dickinson.edu/~braught/kands/kands.html
+
+http://users.dickinson.edu/~braught/kands/KandS2/dpandmem.html
+
+https://github.com/fabiano-amaral/Simulador-ramses
+
+Vários simuladores:
+http://pages.cs.wisc.edu/~arch/www/tools.html
+Histórico
+
+Timeline of Computer History
+http://www.computerhistory.org/timeline/?category=cmptr
+
+John von Neumann
+http://ei.cs.vt.edu/~history/VonNeumann.html
+http://scidiv.bellevuecollege.edu/math/vonneumann.html
+
+Engenho Analítico (Babbage e Lady Ada)
+http://www.gutomarcicano.com.br/node/46
+
+Simulador EDSAC
+http://www.dcs.warwick.ac.uk/~edsac/
+
+Régua de Cálculo
+http://www.antiquark.com/sliderule/sim/virtual-slide-rule.html
+
+Moniac (Computador Analógico)
+
+http://en.wikipedia.org/wiki/MONIAC_Computer
+Diversos
+
+Prof. Roberto Cabral de Mello Borges
+
+http://www.inf.ufrgs.br/~cabral/
+
+Código de Barras
+
+http://mat.ufg.br/bienal/2006/mini/polcino.pdf
+
+Clube do Hardware - Gabriel Torres
+
+http://www.clubedohardware.com.br
+
+Guia do Hardware - Carlos E. Morimoto
+http://www.hardware.com.br
+
+Infowester
+http://www.infowester.com/hardware.php
+
+Introdução à Informática - H. L. Capron e J. A. Johnson
+http://wps.prenhall.com/br_capron_introinf_8/
+Games (jogos) em base 2:
+
+http://gabrielecirulli.github.io/2048/
+
+https://learningcontent.cisco.com/media/games/binary/index.html
+Games (jogos) circuitos lógicos:
+
+Make it True - Resolver o Circuito:
+https://play.google.com/store/apps/details?id=com.ViacheslavRud.Circuit

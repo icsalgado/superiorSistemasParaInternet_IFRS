@@ -1,0 +1,176 @@
+/* 
+ * Arquivo:   literais.c
+ * Autor: Alex Dias Gonsales
+ *
+ * Objetivos:
+ * Este exemplo mostra os literais inteiros da linguagem C, ou seja, as formas 
+ * de se representar os dados em decimal (sem sinal), octal e hexadecimal.
+ * Também é mostrado o literal caractere.
+ *
+ * Também mostra a função printf() e como imprimir em formatos decimal (sem sinal),
+ * hexadecimal, octal e caractere.
+ */
+
+int main(int argc, char** argv) {
+
+  //Declara a variável uc como sendo 8 bits puro (sem sinal).
+  unsigned char uc;
+ 
+  //Alguns exemplos de equivalência de valores:
+  //Binário  - decimal - hexa - octal - catactere
+  //01100001 =  97     = 61h  = 141o  = 'a'
+  //01100010 =  98     = 62h  = 142o  = 'b'
+  //01100011 =  99     = 63h  = 143o  = 'c'
+  //...
+  //01000001 =  65     = 41h  = 101o  = 'A'
+    
+  //Formatos para a função printf():
+  //%d = decimal com sinal.
+  //%u = decimal sem sinal.
+  //%x = hexadecimal.
+  //%o = octal.
+  //%c = caractere.
+
+  //Literal decimal
+  uc = 97;
+  printf("uc = %u = %Xh = %oo = %c\n", uc, uc, uc, uc);
+
+  //Literal hexadecimal: iniciar com 0x
+  uc = 0x61;
+  printf("uc = %u = %Xh = %oo = %c\n", uc, uc, uc, uc);
+  
+  //Literal octal: iniciar com 0
+  uc = 0141;
+  printf("uc = %u = %Xh = %oo = %c\n", uc, uc, uc, uc);
+  
+  //Literal caractere: colocar entre apóstrofo (aspas simples)
+  uc = 'a';
+  printf("uc = %u = %Xh = %oo = %c\n", uc, uc, uc, uc);
+    
+  system("pause");
+}
+
+
+
+/* 
+ * Arquivo:   tipo_uchar1.c
+ * Autor: Alex Dias Gonsales
+ *
+ * Objetivos:
+ * Mostra o tipo unsigned char (inteiro sem sinal com 8 bits) bem como
+ * o maior valor poss�vel (bin�rio puro sem sinal) que se pode armazenar em 8 bits.
+ */
+
+int main() {
+    //Vari�vel 8 bits bin�rio puro (somente inteiros positivos).
+    unsigned char uc;
+
+    //Coloque um valor qualquer e veja sua representacao em decimal, hexa e octal.
+    //Fa�a a convers�o para bin�rio para confirmar.
+    uc = 127;
+    
+    //Conven��o utilizada:
+    // X - Hexadecimal
+    // o - Octal
+    // b - bin�rio
+    printf("decimal     = %u \n", uc);
+    printf("hexadecimal = %Xh \n", uc);
+    printf("octal       = %oo \n", uc);
+    printf("uc = %u = %Xh = %oo \n", uc, uc, uc);
+
+    printf("\n");
+    
+    //Maior valor 8 bits bin�rio puro = 11111111b = 255.
+    //Tente colocar um n�mero maior que 255 e veja o que acontece.
+    //Qual a l�gica?
+    uc = 255;
+    printf("uc = %u = %Xh = %oo \n", uc, uc, uc);
+
+    printf("\n");
+
+    system("pause");
+}
+
+
+/* 
+ * Arquivo:   soma_ushortint.c
+ * Autor: Alex Dias Gonsales
+ *
+ * Objetivos:
+ * Mostra o tipo unsigned short int (inteiro sem sinal com 16 bits) bem como
+ * o maior valor poss�vel (bin�rio puro sem sinal) que se pode armazenar em 16 bits.
+ * Tamb�m � mostrado o que acontece quando efetuamos uma soma que estoura 
+ * a faixa de representa��o do tipo unsigned short int (inteiro sem sinal com 16 bits).
+ */
+
+int main() {
+    //Vari�vel 16 bits bin�rio puro (somente inteiros positivos).
+    unsigned short int i;
+
+    //Maior valor 16 bits bin�rio puro = 1111111111111111b = 65535.
+    //Tente colocar um n�mero maior que 65535 e veja o que acontece.
+    //Qual a l�gica?
+    i = 65535;
+    printf("i = %d = %Xh = %oo \n", i, i, i);
+
+    printf("\n");
+
+    //O que acontece se efetuamos a soma 65535 + 1?
+    //Fa�a a soma em bin�rio e comprove o resultado.
+    i = 65535 + 1;
+    printf("Somando 65535 + 1 = %d = %Xh = %oo \n", i, i, i);
+
+    //O que acontece se efetuamos a soma 65535 + 2?
+    //Fa�a a soma em bin�rio e comprove o resultado.
+    i = 65535 + 2;
+    printf("Somando 65535 + 2 = %d = %Xh = %oo \n", i, i, i);
+
+    //O que acontece se efetuamos a soma 40000 + 30000?
+    //Fa�a a soma em bin�rio e comprove o resultado.
+    i = 40000 + 30000;
+    printf("Somando 40000 + 30000 = %d = %Xh = %oo \n", i, i, i);
+       
+    system("pause");
+}
+
+
+/* 
+ * Arquivo:   tipo_uint1.c
+ * Autor: Alex Dias Gonsales
+ *
+ * Objetivos:
+ * Mostra o tipo unsigned int (inteiro sem sinal com 32 bits) bem como
+ * o maior valor poss�vel (bin�rio puro sem sinal) que se pode armazenar em 32 bits.
+ */
+
+int main() {
+    //Vari�vel 32 bits bin�rio puro (somente inteiros positivos).
+    unsigned int i;
+
+    //Coloque um valor qualquer e veja sua representacao em decimal, hexa e octal.
+    //Fa�a a convers�o para bin�rio para confirmar.
+    i = 2147483648;
+
+     //Conven��o utilizada:
+    // h - Hexadecimal
+    // o - Octal
+    // b - bin�rio
+    printf("decimal     = %u \n", i);
+    printf("hexadecimal = %Xh \n", i);
+    printf("octal       = %oo \n", i);
+    printf("i = %u = %Xh = %oo \n", i, i, i);
+
+    printf("\n");
+    
+    //Maior valor 16 bits bin�rio puro = 11111111111111111111111111111111b = 4294967295.
+    //Tente colocar um n�mero maior que 4294967295 e veja o que acontece.
+    //Qual a l�gica?
+    i = 4294967295;
+    printf("i = %u = %Xh = %oo \n", i, i, i);
+
+    printf("\n");
+
+    system("pause");
+}
+
+
