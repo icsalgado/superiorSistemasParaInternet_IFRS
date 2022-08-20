@@ -1,0 +1,6 @@
+Neste tópico você deverá entender os princípios básicos da arquitetura cliente-servidor, (serviços e protocolos), para poder caracterizá-los e diferenciá-los. Conhecer também características e serviços do protocolo HTTP adquirindo conhecimento para completar uma atividade sobre este tópico a no final do bloco a ser liberada com a exploração dos materiais. Inciaremos as atividades de conexão com o nosso servidor aula usando as seguintes credenciais:
+
+    host: aula.inf.poa.ifrs.edu.br
+    porta: 22
+    login e senha do moodle
+

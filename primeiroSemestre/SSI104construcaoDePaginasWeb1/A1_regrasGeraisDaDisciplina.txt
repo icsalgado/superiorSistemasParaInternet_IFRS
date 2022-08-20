@@ -1,0 +1,17 @@
+
+Regras gerais e dicas para a disciplina:
+
+    Procure revisar e concluir as atividades dentro da semana, para evitar acúmulos de atividades;
+    Ao logo do semestre serão propostas atividades individuais e coletivas. Complete todas elas pois algumas contam diretamente na nota e outras indiretamente, envolvendo aspectos atitudinais (cumprimento das atividades propostas, prazos, participação, colaboração, etc.), que são caraterísticas de perfil normalmente valorizadas no mercado de trabalho;
+    Utilize as marcações de conclusão de cada item, após finalizá-los, para auxiliar na organização do seu avanço e a liberação do próximo bloco;
+    Tente utilizar as ferramentas e práticas sugeridas nas oportunidades de estudos fora da aula para ajudar a reforçar a sua base de conhecimento;
+    Ferramentas avaliativas
+        Perfil do aluno: 5% (participação, cumprimento de prazos, envio de atividades propostas, colaboração) 
+        Padrões Web: 10% (Identificar, caracterizar, discutir a respeito) 
+        Protocolo HTTP: 10% (Conceitos, características, métodos.) Planejamento de Projeto: 10% (Briefing contendo detalhamento, tecnologias, modelos e custos do projeto a ser desenvolvido) 
+        Prova objetiva HTML e CSS: 20% (conteúdos teóricos e aplicados de HTML e CSS) 
+        Liação JavaScript: 20% (Atividade objetiva / prática envolvendo conceitos e aplicações da linguagem) 
+        Projeto Final: 25% (Site baseado nos padrões Web, código válido, tecnologias 3 camadas separadas)
+    O conhecimento depende do seu interesse e sua aplicação. Não copie diretamente conteúdo de outros autores da Internet sem o devido crédito e citação para evitar questões de plágio e demais problemas graves decorrentes;
+    O aprendizado de programação requer prática, dedicação e estudo constante.
+

@@ -1,0 +1,34 @@
+Porque validar páginas Web (leitura rápida)
+Condições de conclusão
+Feito: Ver
+Porque validar páginas web?
+
+Existem muitas razões para escrever HTML, xHTML e CSS válidos: seguem algumas:
+
+    Ferramentas de busca:   se você deseja que o seu site apareça nas ferramentas de busca (e quem não quer?) então tenha certeza de que o seu site seja  válido, sem links quebrados, redirecionamentos, palavras incorretas ou frases mal escritas. As ferramentas de busca PENALIZAM  sites que consideram de baixa qualidade e estes erros diminuem a  qualidade do seu site, penalizando o seu ranking nas ferramentas  de busca. Reduzindo o seu ranking, o tráfego que o seu site recebe  das ferramentas de busca também será reduzido, diminuindo a sua  oportunidade de negócios ("add words", propaganda, etc.). Se o seu  site for pouco visitado, também terá um ranking baixo, o que se  torna uma "bola-de-neve".
+    Ferramentas de busca:  Além do descrito acima, tenha certeza de que o seu site possui  uma sintaxe válida HTML ou xHTML, com seu correto DOCTYPE. As  ferramentas de busca não conseguem realizar eficientemente a   catalogacão do seu site se ele possuir sérios erros de estrutura.  Também tenha certeza de que o seu site está otimizado (SEO) para  as ferramentas de busca utilizando as técnicas de "chapéu branco"  (white hat) e evitando as de "chapéu preto" (black hat), pois   estas últimas também penalizam o ranking do seu site.  - Melhor renderizacão (e mais rápida):   HTML ou xHTML bem escritos renderizam da forma como foram proje-  tados pelo designer, renderizam melhor e mais rapidamente do que  aqueles que possuem erros em sua estrutura. Também podem ser mais  facilmente adaptados para impressão e para outros aparelhos, como  dispositivos móveis.
+    Um DOM (Document Object Model) consistente:  HTML ou xHTML mal escritos geram DOMs diferentes para navegadores  diferentes, pois os mesmos tentam "adivinhar" a estrutura, cada  qual com seu algoritmo, o que gera estas disparidades. Com docu-  mentos bem escritos, o navegador não precisa adivinhar o que o  desenvolvedor gostaria de mostrar, o que torna a renderizacão  ainda mais rápida. Além disso, como os códigos CSS e Javascript  dependem diretamente do DOM, tanto a interatividade do site como  a correta renderizacão do CSS ficam prejudicadas, dependendo mais  fortemente do tipo de navegador utilizado. Mais problemas.- Pronto para os futuros navegadores:  HTML bem escrito está muito mais bem preparado para os futuros  navegadores do que o mal escrito (pois espera-se retrocompatibi-  lidade com os padrões atuais).
+    Não é culpa sua:  Se você construiu uma página baseada nos padrões e com HTML e CSS  bem escritos, não será uma falha sua se a página não funcionar   corretamente com um determinado navegador.
+    Links que funcionam:  Links quebrados levam rapidamente os usuários a abandonar o site.  Quantas vezes você ficou incomodado quando clicou num link e o  mesmo estava quebrado(404, página não encontrada)?   
+    Evite páginas feias:  Problemas como páginas feias (mal renderizadas, com textos   sobrepostos, por exemplo) causadas por HTML mal escrito   constantemente levam os usuários a abandonar o site. Você  deseja que os clientes abandonem o seu site porque você  escreveu um HTML ruim, mal formado e mal acabado? Que tipo  de profissional você que ser?
+    Você pensa que é bom nisso?  Se você pensa que o seu HTML é suficientemente bom e por isso  você não acha necessário verificar a sua sintaxe (assim como  muitos outros desenvolvedores pensam), então experimente validar  o seu código ao menos uma vez para provar que você está correto.  Existe uma grande chance de que você fique surpreso com o resul-  tado e de que o seu HTML possa melhorar ainda mais.     
+    Adote os padrões:  Os navegadores estão cada dia mais aderentes aos padrões da w3c,  e fica cada dia mais importante escrever código válido. Valide o  seu código e evite problemas de visualizacão em sua página para   os visitantes (ou clientes).
+    Afaste-se dos editores WYSIWYG:  Um editor WYSIWYG não é desculpa para não escrever um bom HTML.  Se o seu editor não produz um bom HTML, não deve ser usado, ou  no mínimo deve ser possível a correcão destes problemas manual-  mente. Os editores mais recentes são os melhores, mas mesmo assim  ainda possuem problemas para escrever um HTML bem formado.- Ter páginas dinâmicas (como PHP e ASP):  Ter um site com páginas dinâmicas não é desculpa para um HTML ruim.  Você precisa apenas validar a SAÍDA que é enviada ao seu navegador,  ou seja, o código fonte da página que o seu navegador recebeu.  Se as suas páginas dinâmicas estiverem gerando código HTML ou CSS  ruins, então merecem mais atencão na escrita e codificacão, pois  os seus visitantes poderão experimentar problemas de acessibilidade,  de visializacão e de SEO.
+    Melhor renderizacão:  Escrever HTML livre de erros é a melhor maneira de  garantir que  as suas páginas serão renderizadas correta e rapidamente na maioria   quantidade de navegadores possível. Isto inclui navegadores antigos,  navegadores que estão para serem desenvolvidos e navegadores mobile.
+    Escreva apenas uma vez:  Escreva certo da primeira vez e escreverá apenas uma vez. Escreva  errado e terá que voltar mais vezes ao seu código depois, para  corrigir o(s) erro(s).
+
+Alguns validadores:
+
+Experimente copiar o seu código html ou passar o url (caso esteja publicado) em um destes serviços abaixo. Ainda, experimente inserir algum link conhecido de algum site que você visita ou usa com frequência e surpreenda-se com o resultado! ;-)
+
+    w3c Validator - http://validator.w3.org
+    Nu Validtor - http://html5.validator.nu
+    Aborla - http://validator.aborla.net/
+    Dr. Watson - http://watson.addy.com/
+    Total Validator - https://www.totalvalidator.com/
+    HTML Online Validator for Chrome - https://www.google.com/chrome/
+
+========
+
+Traducão livre do site "http://www.htmlvalidator.com/htmlval/whyvalidate.html" para fins educacionais.
+

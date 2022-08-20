@@ -1,0 +1,31 @@
+Regras para o Glossário de termos - LEIA-ME
+Condições de conclusão
+
+Prezado(a)s!
+
+Observem a regra para a montagem de nosso glossário, cujo esquema deve seguir o seguinte exemplo:
+
+    Se o termo for uma sigla, procure seu significado: URL = Uniform Resource Locator;
+    Ao procurar pela definição do termo, atente para o fato de que muitos portais de grandes empresas, como a Microsoft, têm os textos traduzidos automaticamente (como no Google Translator), o que nem sempre resulta em uma formulação clara/correta;
+    Se possível, verifique as informações em duas ou três fontes diferentes - vale até fóruns específicos da área e a Wikipédia, por exemplo (coloque o link para o site ou a referência do livro abaixo da definição);
+    Formule a sua definição com base nas informações encontradas de forma clara e concisa, uma frase com menos de três linhas costuma ser suficiente;
+    Procure começar a definição com um substantivo, o que equivale a um tipo de classificação com palavras mais simples e acessíveis a um leitor não muito especializado na área;
+    Opcional - colocar a informação se é um substantivo masculino ou feminino.
+
+Exemplo:
+
+URL (Uniform Resource Locator) - s.m. endereço padrão para localizar documentos ou recursos disponíveis na Internet ou em uma rede corporativa (intranet).
+
+Fontes:
+
+    Wikipédia - http://pt.wikipedia.org/wiki/URL
+    Webopedia - http://www.webopedia.com/TERM/U/URL.html (site em inglês)
+
+Termos iniciais a serem pesquisados e descritos: (cada colega escolhe 1 desses). Pesquise antes no próprio glossário para ver se já não está publicado por outro colega.
+
+TCP, IP, ICMP, HTTP, PING, ROTEADOR, SWITCH, HUB, PROXY, URI, URL, FIREWALL, HTTPS, UDP, WWW, PORTAS WEB, PROTOCOLO WEB, SERVIÇOS WEB, SERVIDORES WEB, MAINFRAME, SERVIDOR DE DADOS, SERVIDOR DE E-MAIL, HOST, PROVEDOR WEB, BLOG, MICROBLOG, SITE, HOTSITE, ARQUITETURA CLIENTE-SERVIDOR, COMPUTAÇÃO NA NUVEM, LAN, WAN, MAN, LARGURA DE BANDA, INTRANET, INTERNET, DNS, ARPA, ARPANET, NODE.JS, GIT, GITHUB
+
+Para inserir um novo item no glossário acesse o seguinte link: https://moodle.poa.ifrs.edu.br/mod/glossary/view.php?id=235212
+
+Bom trabalho!
+
