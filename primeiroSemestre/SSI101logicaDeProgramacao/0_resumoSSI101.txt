@@ -1,0 +1,145 @@
+Aula 2
+Slide A2_algoritmoSequencial
+Aula A2_videoAulaLogicaSequencial
+
+Legenda do resumo:
+	*>significa inicio de bloco ou linha de codigo
+	<*sinifica o fim do codigo
+
+O que é Lógica
+	Estudo das leis do raciocínio
+	
+	Sequência de passos lógicos = ALGORITMO = Caminho para a solução de um problema
+	
+	Algoritmo natural = conjunto de passos ordenados utilizados no dia a dia para realizar alguma ação Exemplo, receita de bolo ou vitamina
+	
+	Algoritmo computaciona - Obedece as normas de sintaxe (são os comandos) e semantica (as ações)
+		Portugol = Portugues estruturado
+			Cabeçalho
+			Área de Declaração
+			Corpo do algoritmo
+		Variaveis
+			iniciar com letra ou _
+			sem espaço
+			não pode ser uma palavra reservada
+			não é case sensitive
+			max 127 caracteres
+			Sempre tem um conteúdo e um tipo de dado
+		Tipo de dados
+			Numérico
+				interiro 
+				real
+			Caracter
+			Lógico ou booleano
+		Declaração
+			*>variaveis
+				valor, valor2: inteiro
+			 constantes
+			 	ano = 2022<*
+		Operadores aritmeticos
+			subtração -
+			adição +
+			multiplicação *
+			divisão /
+			potenciacão ^, **
+		Operadores especiais
+			div operador de divisão inteira
+			mod resto da divisão
+		Operadores relacionais
+			>
+			<
+			>=
+			<=
+			=
+			<> diferente
+		Operadores lógicos
+			E
+			OU
+			NÃO
+		funções prontas
+			vide tabela
+		Atribuição
+			*>nome <- "Maria"<*
+		Escrever
+			*>escrever("informe o nome")
+			  escrever("valor:", valor)<*
+		Ler
+			*>ler(nome)<*
+		Comentarios
+			*>(*Este é um comentario*)
+			  {Este é outro comentario}<*
+		Estrutura do código
+			*>Algotitmo ola_mundo
+			  Variaveis
+			  	ano: inteiro
+			  Inicio
+			  	escreva("informe o ano")
+			  	leia(ano)
+			  	escreva("ola mundo em ",ano)
+			  Fim<*
+		Teste de mesa
+			Execução do algoritmo passo a passo
+			Evoluçãodo conteúdo das variáveis
+		Identação
+			Recuo estabelecido nas estruturas de controle para legibilidade, fundamental
+	Comando MOD e Div
+		Video do tutor A2_videoAulaMODeDIV
+			dividendo é quem vai ser dividido
+			divisor é por quanto será dividido
+			quociente é o resultado inteiro 
+			resto o que não foi possivel dividir de forma inteira
+			
+			DIV retorna o quociente inteiro
+			MOD retorna o resto 
+			
+VisualG
+	*> nome:caracter
+	   escreva("digite algo")
+	   leia(nome)
+	   escreva("voce digitou: ", nome) 
+	   
+	   nome <- "mudei"
+	   
+	   <*
+
+Fluxograma
+	Diagrama de blocos
+	Operações representadas por simbolos que identificam o processo envolvido
+	
+Aula 3
+A3_algoritmodeSelecaoSE
+A3_videoAulaSeEntao
+A3_videoAulaCaso
+A3_algoritmodeSelecaoCaso
+
+	Estrutura simples
+		*>
+		  se media >= 7 entao
+		  inicio
+		  	escreva("Aprovado")
+		  	escreva("boas ferias")
+		  fim
+		  senao
+		  	escreva("Reprovado")
+		<*
+	Estrutura encadeada
+		*>
+		  se condição então
+		  inicio
+		  	comandos
+		  fim
+		  senão se condição então
+		  inicio
+		  	comandos
+		  fim
+		  senão
+		  inicio
+		  	comandos
+		  fim
+		<*
+Caso ... seja Senao
+	A variavel ou expressao do comando deve ser do ripo inteiro, caractere tamano 1 ou logico
+	
+	, entre operadores significa um ou outro
+	.. entre operadores significa de um a outro
+	
