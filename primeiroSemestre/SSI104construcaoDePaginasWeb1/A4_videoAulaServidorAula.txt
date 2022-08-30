@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=0Aadxn_MWnc&t=76s
+
+
+    host: aula.inf.poa.ifrs.edu.br
+    porta: 22
+    login e senha do moodle
+
