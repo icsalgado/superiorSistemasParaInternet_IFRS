@@ -1,0 +1,72 @@
+:root{
+    --linkStandBy: #4F4F4F;
+    --linkHover: #1C1C1C;
+}
+
+.container{
+    /*Ativando flexbox*/
+    display: flex;
+}
+
+/*################ CABEÇALHO DA PÁGINA #################*/
+header{
+    /*Cabeçalho dentro da main*/
+    justify-content: space-between;/*Espaço entre a div e a ul*/
+    align-items: center;/*no centro horizontal*/
+    border: solid 1px black;/*é só para visualizar o bloco*/
+}
+.titulo{
+    margin:0px 15px;
+    align-items: center;
+    justify-content: space-between;
+}
+.titulo h1{
+    margin-left: 10px;
+}
+header ul li{
+    /*lista no menu no cabeçalho*/
+    list-style-type: none;/*tirar as bolinhas da li*/
+    margin:0px 15px;/*margem entre as li*/  
+}
+header a{/*removendo as caracteristicas de link*/
+    text-decoration: none;/*sem sublinhado*/
+    color: var(--linkStandBy);/*Tira o azul*/
+}
+header a:hover{/*Quando passa o mouse*/
+    font-size: 110%;
+    color: var(--linkHover);
+}
+
+/*################### BLOCO PRINCIPAL ###################*/
+main{
+    margin-top: 20px;
+    border: solid 1px black;/*é só para visualizar o bloco*/
+}
+
+
+.dados h2{
+    text-align: center;
+}
+.dados{
+    margin:5px 50px;
+}
+.formacao h2{
+    text-align: center;
+}
+.formacao{
+    margin:5px 50px;
+}
+.xp h2{
+    text-align: center;
+}
+.xp{
+    margin:5px 50px;
+}
+
+/*#################### RODAPÉ DA PÁGINA ####################*/
+
+footer{
+    margin-top: 20px;
+    text-align: center;
+    border: solid 1px black;/*é só para visualizar o bloco*/
+}
