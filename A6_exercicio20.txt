@@ -1,0 +1,3 @@
+Chico tem 1m e 50cm e cresce 2 cm por ano, enquanto Zé tem 1m e 10cm e cresce 3cm por ano.
+
+Construa um algoritmo que calcule e imprima na tela quantos anos serão necessários para que Zé seja maior que Chico.
