@@ -1,0 +1,3 @@
+
+
+sudo apt-get install libwxgtk2.6-dev wx2.6-headers wx-common
