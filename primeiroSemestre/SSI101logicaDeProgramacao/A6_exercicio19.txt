@@ -1,0 +1,3 @@
+Escrever um algoritmo em português estruturado que leia um número inicial e um número final para A e B e, ao final, mostre na tela os números que fazem parte do intervalo entre A e B, inclusive.
+
+Obs:  Testar se o número inicial (A) é menor que o número final (B), caso contrário fazer a troca. Utilizar a estrutura de Repetição Repetir .. Até 
