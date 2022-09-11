@@ -7,12 +7,18 @@
     /*Ativando flexbox*/
     display: flex;
 }
+body{
+    background-image: linear-gradient( to bottom, gray, darkgray,gray );
+}
+
 
 /*################ CABEÇALHO DA PÁGINA #################*/
 header{
     /*Cabeçalho dentro da main*/
     justify-content: space-between;/*Espaço entre a div e a ul*/
     align-items: center;/*no centro horizontal*/
+    background-color: rgba(251, 252, 253, 0.514);
+
     border: solid 1px black;/*é só para visualizar o bloco*/
 }
 .titulo{ 
@@ -40,6 +46,8 @@ header a:hover{/*Quando passa o mouse*/
 /*################### BLOCO PRINCIPAL ###################*/
 main{
     margin-top: 20px;
+    background-color: rgba(251, 252, 253, 0.514);
+
     border: solid 1px black;/*é só para visualizar o bloco*/
 }
 
@@ -63,10 +71,21 @@ main{
     margin:5px 50px;
 }
 
+.bloco2{
+    margin-top: 20px;
+    background-color: rgba(251, 252, 253, 0.514);
+    text-align: center;
+
+    border: solid 1px black;/*é só para visualizar o bloco*/
+}
+
 /*#################### RODAPÉ DA PÁGINA ####################*/
 
 footer{
     margin-top: 20px;
     text-align: center;
+    background-color: rgba(251, 252, 253, 0.514);
+
+
     border: solid 1px black;/*é só para visualizar o bloco*/
 }
