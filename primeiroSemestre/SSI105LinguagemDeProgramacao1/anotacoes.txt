@@ -1,3 +1,7 @@
 
 
 sudo apt-get install libwxgtk2.6-dev wx2.6-headers wx-common
+
+https://medium.com/@juniortrojilio/preparando-o-vs-code-para-compilar-c-c-no-windows-988f4a91a557
+
+

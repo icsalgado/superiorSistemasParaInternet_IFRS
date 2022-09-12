@@ -1,0 +1,22 @@
+
+
+0 - Escreva um algoritmo que escreva números de 1 a 10.
+Usando o comando FOR (for(i=10;i>0;i--)) com decremento.
+(use a imaginação).
+
+1 - CAIXA ELETRÔNICO. Escrever um programa que lê um valor inteiro em reais e calcula qual o menor número possível de notas de 100, 50, 20, 10, 5, 2 e 1 em que o valor lido pode ser entregue ao cliente. Escrever a relação de notas necessárias.
+• Dica: use %
+
+2 - Escreva um algoritmo que escreva números de 1 a 10. Usando o comando FOR (for(i=10;i>0;i--)) com decremento. (use a imaginação).
+
+3 - Sequência de Fibonacci
+https://super.abril.com.br/mundo-estranho/o-que-e-a-sequencia-de-fibonacci/
+A série de Fibonacci inicia com 0 e 1. Os números seguintes são iguais a soma dos dois números anteriores.
+
+Ex. 0, 1, 1, 2, 3, 5, 8, 13, 21. Escreva os 25 primeiros elementos da série de Fibonacci
+
+DESAFIO - Números Primos:
+https://g1.globo.com/educacao/noticia/maior-numero-primo-do-mundo-e-descoberto-por-engenheiro-voluntario-nos-eua.ghtml
+Um número primo é um número divisível apenas por 1 e por ele mesmo. Ex: 1,2,3,5,7,11,...
+Escreva um algoritmo que escreva uma seqüência de 20 números primos.
+
