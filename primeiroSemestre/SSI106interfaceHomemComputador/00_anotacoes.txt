@@ -1,0 +1,68 @@
+Usabilidade
+	Um conjunto de atributos relacionados com o esforço necessário para uso de um sistema interativo, e relacionados com a avaliação individual de tal uso por um conjunto específico de usuários
+	Grau em que um produto é usado por usuários específicos para atingir objetivos epecíficos com eficácia, eficiência e satisfação em um contexo de uso específico
+	
+	Eficácia
+		Capacidade de os usuários interagirem com o sistema para alcançarem seus objetivos corretamente conforme o esperado
+	Eficiência
+		relacionada com os recursos necessários para os usuários interagirem com o sistema e alcançarem seus objetivos de forma produtiva
+	Satisfação 
+		Relacionada a experiência de usar o sistema interativo no contexto de uso para o qual foi projetado
+		
+Jakob Nielsen 
+	 A usabilidade está relacionada com a facilidade de aprendizado e uso da interface, bem como a satisfação do usuário em decorrência desse uso. um aumento de 83% em conversões é esperado com o melhoramento da usabilidade
+	 
+	 A usabilidade é um atributo de qualidade relacionado à facilidade do uso de algo. Mais especificamente, refere-se à rapidez com que os usuários podem aprender a usar alguma coisa, a eficiência deles ao usá-la, o quanto lembram daquilo, seu grau de propensão a erros e o quanto gostam de utilizá-la. Se as pessoas não puderem ou não utilizarem um recurso, ele pode muito bem não existir.
+	 
+	 Motivos da desistencia de usuarios em usar um sistema web
+	 	dificuldade
+	 	clareza da oferta
+	 	navegação confusa
+	 	falta de informação
+	 	questões-chave sem resposta
+	 	necessidade de manuais
+	 	
+	 Reflexos da usabilidade em usuarios
+	 	satisfação
+	 	alcance dos objetivos, eficácia e eficiência
+	 	realização de tarefas
+	 	compartilhamento e recorrencia
+	 	confiança
+	 	boa experiênia
+	 
+	 Reflexos da usabilidade nos sites
+	 	reduz
+	 		tempo e custo de desenvolvimento
+	 		custo de suporte ao cliente
+	 		erros do usuario
+	 		tempo e custo de formação
+	 	Aumento nas vendas
+	 	Retorno maior do investimento
+	 Metas de usabilidade
+	 	Eficácia
+	 		quando um produto é bom em fazer o que dele se espera
+	 	Eficiência
+	 		a maneira como um produto auxilia os usuários na realização das suas tarefas
+	 	Segurança
+	 		envolve proteger o usuário de condições perigosas e situações indesejaveis
+	 	Utilidade
+	 		refere-se a maneira na qual o produto oferece o tipo certo de funcionalidade, de modo que os usuários possam fazer aquilo que precisam ou desejam
+	 	Facilidade no aprendizado
+	 		Leanability - refere-se a facilidade de aprender a usar um sistema
+	 	Facilidade de lembrança
+	 		memorability - refere-se a facilidade de lembrar como utilizar um sistema depois de já te-lo aprendido
+	 
+	 Problema de usabilidade
+	 	quando ha dificuldade pr determinado usuario realizar uma tarefa com a interface
+	 	Classificação
+	 		0 - sem importância
+	 			não afeta a operação da interface
+	 		1 - cosmetico
+	 			não há necessidade imediata de solução
+	 		2 - simples
+	 			baixa prioridade, pode ser reparado
+	 		3 - grave
+	 			alta prioridade, deve ser reparado
+	 		4 - catastrófico
+	 			prioridade máxima, em reparo
+	 	
