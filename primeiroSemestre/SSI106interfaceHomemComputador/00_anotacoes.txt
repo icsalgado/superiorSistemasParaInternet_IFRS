@@ -65,4 +65,27 @@ Jakob Nielsen
 	 			alta prioridade, deve ser reparado
 	 		4 - catastrófico
 	 			prioridade máxima, em reparo
-	 	
+10 Heuristicas adaptadas
+	1 Dialogos simples e naturais (Design Minimalista)
+		Observar cores, exageros e combinações ruins
+	2 Falar a linguagem do usuário
+		Modelo mental de uso da interface e linguagem adaptada
+	3 Minimizar a sobrecarga de memória dousuário
+		Elementos de dialogo para evitar a necessidade de lembrar comandos, permitir que o usuário faça escolhas
+	4 Consistência e padronização
+		Um mesmo comando gera uma mesma ação sempre, posicionamento igual em diferentes telas para a mesma função
+	5 Visibilidade do estado do sistema
+		Informar o estado retornando feedback de processamento para o cliente
+	6 Controle e liberadade
+		O usuário precisa sentir que controla a aplicação, sair de situações como caixa de dialogos e etc
+	7 Flexibilidade e eficiência
+		Execução rápida para usuarios experientes, com atalhos para operações frequentemente utilizadas e backtrack
+	8 Boas mensagens de erro
+		Linguagem clara e sem códigos
+		Precisão
+		Ajudar a entender e resolver o problema
+		Não deve intimidade ou culpar o usuário
+	9 Prevenir erros
+		Mapear e tratar possíveis erros antes de ocorrerem 
+	10 Ajuda e Documentação
+		Deve-se evitar textos longos, e ser claro
