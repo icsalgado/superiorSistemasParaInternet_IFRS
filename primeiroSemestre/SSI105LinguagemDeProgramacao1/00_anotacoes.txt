@@ -4,4 +4,13 @@ sudo apt-get install libwxgtk2.6-dev wx2.6-headers wx-common
 
 https://medium.com/@juniortrojilio/preparando-o-vs-code-para-compilar-c-c-no-windows-988f4a91a557
 
+capturar strings com espaço usar
 
+gets(variavel);
+
+manipulação de strings #include <string.h>
+	strcpy (destino, origem); // copia
+	strcmp (string1, string2); //compara ordem alfabetica - string1 é menor, 1 string1 é maior, 0 se forem iguals
+	strcat (string1, string2); // concatena
+	strlen(string); //tamanho da string
+	sizeof(variavel); //tamanho da variavel
