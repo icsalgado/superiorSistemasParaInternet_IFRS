@@ -1,34 +1,69 @@
-.container{
+body{
+    background-color: lightcyan;
+}
+
+.main{
+    /*border: solid 1px black;/*para ver o bloco*/
+    margin: 100px 50px;
+}
+
+header{
+    /*border: solid 1px black;/*para ver o bloco*/
+    margin: 20px;
+    display: flex;/*dispõe os itens horizontalmente*/
+    align-items: center;/*ajusta os itens no centro horizontal*/
+    justify-content: space-around;/*define um espaçamento igual entre os itens e a borda*/
+}
+
+section{
+    /*border: solid 1px black;/*para ver o bloco*/
+    margin: 20px 150px;
+    border-radius: 30px;
+    background-color: azure;
+}
+
+section h2{
+    text-align: center;
+}
+
+.top{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+
+.cs{
     display: flex;
 }
-header{
-    justify-content: space-between;
 
-    align-items: center;
-}
-main{
-    margin-top: 5%;
-}
-.dados h2{
-    text-align: center;
-}
-.dados{
-    margin:5px 50px;
-}
-.formacao h2{
-    text-align: center;
-}
-.formacao{
-    margin:5px 50px;
-}
-.xp h2{
-    text-align: center;
-}
 .xp{
-    margin:5px 50px;
+    display: flex;
+}
+
+.item-left{
+    width: 300px;
+    height: 170px;
+    padding: 0px 0px;
+}
+
+.item-right{
+    width: 300px;
+    height: 170px;
+    padding: 0px 0px;
+    text-align: right;
+}
+
+.flexbox{
+    display: flex;
+    justify-content: space-around;
+}
+
+.item{
+    width: 100px;
 }
 
 footer{
-    margin-top: 10%;
+    /*border: solid 1px black;/*para ver o bloco*/
+    margin: 20px;
     text-align: center;
 }

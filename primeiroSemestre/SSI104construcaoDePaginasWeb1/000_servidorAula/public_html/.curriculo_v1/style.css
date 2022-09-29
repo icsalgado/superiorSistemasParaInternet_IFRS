@@ -10,7 +10,7 @@
 body{
     background-image: linear-gradient( to bottom, gray, darkgray,gray );
 }
- 
+
 
 /*################ CABEÇALHO DA PÁGINA #################*/
 header{
@@ -40,14 +40,14 @@ header ul li{
     /*margem entre as li*/  
 }
 header a{
-    /*removendo as caracteristicas de link*/
+	/*removendo as caracteristicas de link*/
     text-decoration: none;
     /*sem sublinhado*/
     color: var(--linkStandBy);
     /*Tira o azul*/
 }
 header a:hover{
-    /*Quando passa o mouse*/
+	/*Quando passa o mouse*/
     font-size: 110%;
     color: var(--linkHover);
 }
