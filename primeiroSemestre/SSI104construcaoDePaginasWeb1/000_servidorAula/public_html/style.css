@@ -15,6 +15,21 @@ header{
     justify-content: space-around;/*define um espaçamento igual entre os itens e a borda*/
 }
 
+header h1{
+    font-size: 5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.profile{
+    width: 10%;
+    border-radius: 300px;
+}
+
+.link-redes img{
+    width: 40px;
+    display: flex;
+}
+
 section{
     /*border: solid 1px black;/*para ver o bloco*/
     margin: 20px 150px;
