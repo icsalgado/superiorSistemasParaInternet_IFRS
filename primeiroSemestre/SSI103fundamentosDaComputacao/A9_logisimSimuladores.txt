@@ -1,0 +1,8 @@
+Download
+http://www.cburch.com/logisim/pt/index.html
+https://sourceforge.net/projects/circuit/files/latest/download
+
+Online
+https://logic.ly/demo/
+https://circuitverse.org/simulator
+https://www.inf.ufpr.br/andrey/OAs/wiry/
