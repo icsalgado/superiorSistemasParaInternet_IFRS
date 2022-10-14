@@ -1,21 +1,21 @@
 Algoritmo "calculoSubredeC"
-// Descrição   : mapeia os hosts e redes de classe C
+// Descriï¿½ï¿½o   : mapeia os hosts e redes de classe C
 // Autor(a)    : Iuri de Carvalho Salgado
 // Data atual  : 10/10/2022
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
 
 
 operacao, redes, octeto, salto, mascara, i :inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
 
 
 repita
    escreval("        CALCULO DE SUBREDES DE CLASSE C")
 
-   escreval("     Escolha o código da operação desejada:")
+   escreval("     Escolha o cï¿½digo da operaï¿½ï¿½o desejada:")
 
    escreval("+---------------------------------------------+")
    escreval("| [1] Quero criar uma rede com subredes       |")
@@ -40,8 +40,8 @@ repita
                 enquanto i <= redes faca
                     escreval(">> Rede: 192.168.1.",octeto)
                     escreval("Broadcast: 192.168.1.",salto * i - 1)
-                    escreval("Hosts Possíveis: 192.168.1.",octeto+1)
-                    escreval("             até 192.168.1.",salto * i - 2)
+                    escreval("Hosts Possï¿½veis: 192.168.1.",octeto+1)
+                    escreval("             atï¿½ 192.168.1.",salto * i - 2)
                     octeto <- octeto + salto
                     i <- i+1
                 fimenquanto
@@ -60,8 +60,8 @@ repita
                 enquanto i <= redes faca
                     escreval(">> Rede: 192.168.1.",octeto)
                     escreval("Broadcast: 192.168.1.",salto * i - 1)
-                    escreval("Hosts Possíveis: 192.168.1.",octeto+1)
-                    escreval("             até 192.168.1.",salto * i - 2)
+                    escreval("Hosts Possï¿½veis: 192.168.1.",octeto+1)
+                    escreval("             atï¿½ 192.168.1.",salto * i - 2)
                     octeto <- octeto + salto
                     i <- i+1
                 fimenquanto
