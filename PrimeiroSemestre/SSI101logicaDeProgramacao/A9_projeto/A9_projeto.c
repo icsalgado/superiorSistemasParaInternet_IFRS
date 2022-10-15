@@ -12,6 +12,7 @@ int main()
     do
     {
         system("clear"); // limpa a tela do terminal no Linux
+        //system("cls"); // para windows
 
         printf("        CALCULO DE SUBREDES DE CLASSE C\n");
 
@@ -39,7 +40,7 @@ int main()
                 printf("IP de Classe: %c\n", classe);
                 printf("Mascara de sub-rede: 255.255.255.%d\n", mascara);
                 printf("Quantidade de sub-redes: %d\n", redes);
-                octeto4 = 0;
+                octeto4 = 0; //evita lixo de memória
 
                 for (int i = 1; i <= redes; i++)
                 {
