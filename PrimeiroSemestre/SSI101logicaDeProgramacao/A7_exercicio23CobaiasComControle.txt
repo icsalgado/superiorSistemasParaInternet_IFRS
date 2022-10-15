@@ -1,0 +1,9 @@
+Em um laboratório usam-se dois tipos de cobaias: ratos e coelhos. O código para ratos é 1 e para coelhos, 2. Foram feitas 15 experiências, nas quais foram utilizados um dos tipos de cobaias. Faça um algoritmo que leia, para cada uma das experiências, o código da cobaia utilizada e a quantidade de cobaias. 
+
+OBS: desenvolva uma estrutura de controle para que o programa só aceite o código 1 e 2. Caso o usuário digite outro número, force a digitação do código correto.
+
+   Deseja-se saber:
+a) o total de cobaias utilizadas,
+b) o total de ratos,
+c) o total de coelhos
+d) o percentual de cada cobaia.

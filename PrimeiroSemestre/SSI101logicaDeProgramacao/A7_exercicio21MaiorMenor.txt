@@ -1,0 +1,2 @@
+Escrever uma algoritmo em português estruturado que leia 50 valores e encontre o maior e o menor deles. Mostrar na tela o resultado. 
+Utilizar estrutura de repetição contada para.. até .. faça
