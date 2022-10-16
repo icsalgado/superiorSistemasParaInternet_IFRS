@@ -33,7 +33,7 @@
 
 >> Técnicas de prototipação, documentação básica de projetos e interface homem-computador
 
-### Competências e carga horária (CH do curso 1080 horas)
+### Competências e carga horária (CH do curso 2216 horas)
 - Lógica de Programação 100hrs
 - Ingês Técnico 40hrs
 - Fundamentos da Computação 80hrs
