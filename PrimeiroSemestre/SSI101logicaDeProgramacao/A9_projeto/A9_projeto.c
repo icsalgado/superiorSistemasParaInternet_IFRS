@@ -87,6 +87,7 @@ int main()
                 break;
             default:
                 printf("inválido\n");
+                sleep(1);//leitura vai ser em segundos no meu compilador
                 break;
         }
     } while (operacao != 0);
