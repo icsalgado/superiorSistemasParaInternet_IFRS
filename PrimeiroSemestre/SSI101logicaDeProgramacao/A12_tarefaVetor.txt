@@ -1,0 +1,9 @@
+1 ) Escreva um algoritmo que leia dois vetores de 10 posições e faça a soma dos elementos de mesmo índice, colocando o resultado em um terceiro vetor. Mostre o vetor resultante.
+
+2) Crie um algoritmo que leia um vetor de 20 posições e informe:
+
+    Quantos números pares existem no vetor
+    Quantos números ímpares existem no vetor
+    Quantos números maiores do que 50
+    Quantos números menores do que 7
+
