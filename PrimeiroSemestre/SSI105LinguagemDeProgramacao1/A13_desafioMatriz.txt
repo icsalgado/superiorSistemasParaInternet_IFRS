@@ -1,0 +1,27 @@
+Desafio: Matrizes e Vetores (atividade extra - opcional)
+Condições de conclusão
+
+Crie um programa que leia o estoque atual de 4 produtos (colunas) que estão armazenados em 4 armazéns (linhas) e coloque estes dados em uma matriz 5x4. Sendo que a última linha contem o custo de cada unidade do produto. Calcule e imprima:
+
+- a quantidade de itens armazenados em cada armazém (soma da linha)
+
+- qual armazém possui maior estoque do produto 2
+
+- Qual armazém possui menor estoque do produto 4
+
+- qual o custo total de cada produto (somando todos os armazéns vezes o preço)
+
+- qual o custo total de cada armazém (soma dos valores armazenados)
+
+Exemplo:
+
+10 20 30 40 10 //estoque do armazém 1
+
+30 10 20 50 20 //estoque do armazém 2
+
+40 10 20 20 10 //estoque do armazém 3
+
+50 10 20 20 20 //estoque do armazém 4
+
+15 25 30 20 50 //preço dos produtos.
+
