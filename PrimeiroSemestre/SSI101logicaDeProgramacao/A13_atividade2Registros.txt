@@ -1,0 +1,11 @@
+Exercício Registro R.U.
+Condições de conclusão
+
+Em uma pesquisa feita com 200 alunos frequentadores do R.U. de uma instituição,  perguntou-se o nome do aluno, quantas refeições fez no mês anterior e como avalia a refeição (O-ótima, B-bom, R-regular e P-péssima).  Faça um programa que forneça: 
+ a) o número de alunos que fez menos de 10 refeições no mês anterior; 
+ b) o número de alunos que fez entre 10 e 20 refeições 
+ c) o número de alunos que fez mais de 20 refeições identificando seus respectivos nomes.
+
+d) a porcentagem de cada avaliação
+
+e) o número de alunos que avaliaram a refeição como P-péssima e que fizeram menos de 10 refeições
