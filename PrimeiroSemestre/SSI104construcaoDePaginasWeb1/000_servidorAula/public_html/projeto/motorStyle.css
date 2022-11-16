@@ -1,0 +1,166 @@
+/*Declarando variaveis para as cores padrão*/ 
+
+:root{
+    --vermelho: #E50914;
+    --preto: #141414;
+}
+
+@font-face {/*Fonte no estilo da fonte usada pela F1*/
+    font-family: 'formula';
+    src: url('./assets/formulaFont.ttf');
+ }
+
+/*Estilos globais*/
+
+*{/*Reset independente do navegador, que podem ter valores diferentes de margens*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;/*para que o conteudo não empurre o container*/
+}
+
+body{
+    background: var(--preto);
+    font-family: 'formula';
+    color: white;
+}
+
+/*Estilos do header*/
+header .container{
+    margin: 5px 10px;/*margem superior/inferior e laterais*/
+    display: flex;/*ficara em linha para uso do flexbox*/
+    justify-content: space-between;/*espaço entre os itens*/
+    align-items: center;/*alinha o menu ao centro do logo*/
+}
+
+header .logo{
+    color: var(--vermelho);
+    font-size: 45px;
+    font-weight: bold;
+}
+
+header nav a{
+    text-decoration: none;
+    color: #AAA;
+    margin-right: 10px;
+}
+
+header nav a:hover{
+    color: #fff;
+}
+
+/*Principal*/
+.principal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+
+    height: 500px;
+    font-size: 18px;
+
+    background: linear-gradient(rgba(0,0,0.50), rgba(0,0,0,.50)), url('./assets/f1Background.jpg');/*Deixa a imagem com um sombreado preto*/
+    background-size: 100%;/*para a imagem pegar toda a caixa*/
+}
+
+.titulo{/*Formula1*/
+    font-size: 29px;
+    margin: .5%;
+}
+
+.sinopse{/*descrissão do principal*/
+    font-size: 25px;
+    margin: .5%;
+    text-align: center;
+}
+
+.btn{
+    background-color: rgba(0,0,0,.40);
+    border: none;/*para tirar a borda padrão de botões*/
+    border-radius: 30px;/*bordas arredondadas*/
+    color: white;
+    margin: 5px;
+    padding: 15px;
+    font-weight: bold;
+}
+
+.btn a{
+    text-decoration: none;
+    color: white;
+}
+
+.btn:hover{
+    background-color: rgba(255,255,255,.40);
+    color:black;
+    border: 1px solid white;
+    cursor: pointer;/*mãozinha*/
+    transition: 1s;/*para mudar suavemente*/
+}
+
+.btn a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+/**/
+.carrosel a{
+    text-decoration: none;
+    color: #AAA;
+}
+
+.card{
+    margin-top: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 500px;
+}
+
+.card h3{
+    font-size: 25px;
+}
+
+.card p{
+    font-size: 20px;
+}
+
+.card1{
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)), url('./assets/f1Card.jpg');
+    background-size: 100% 100%;
+}
+.card2{
+    background: linear-gradient(rgba(0,0,0.50), rgba(0,0,0,.50)), url('./assets/stockCarCard.jpg');
+    background-size: 100% 100%;
+}
+.card3{
+    background: linear-gradient(rgba(0,0,0.50), rgba(0,0,0,.50)), url('./assets/driftCard.jpg');
+    background-size: 100% 100%;
+}
+.card4{
+    background: linear-gradient(rgba(0,0,0.50), rgba(0,0,0,.50)), url('./assets/nascarCard.jpg');
+    background-size: 100% 100%;
+}
+.card5{
+    background: linear-gradient(rgba(0,0,0.50), rgba(0,0,0,.50)), url('./assets/fecard.jpg');
+    background-size: 100% 100%;
+}
+
+/*responsividade*/
+
+@media screen and (max-width:700px) {
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .btn{
+        margin-top: 5px;
+    }
+}
+
+@media screen and (min-width:1000px) {
+    .sinopse{
+        width: 50%;
+    }
+}
