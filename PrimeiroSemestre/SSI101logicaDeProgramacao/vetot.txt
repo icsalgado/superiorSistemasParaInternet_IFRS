@@ -1,0 +1,7 @@
+IVetor
+Condições de conclusão
+
+1) Um vetor de 10 posições para receber valores inteiros. Preencha o vetor com valores aleatórios e ao final imprima os valores na tela.
+
+2) Algoritmo que lê um vetor v de 5 posições e no final apresenta os valores pares do vetor.
+Última atualização: sábado, 10 dez. 2022, 20:22

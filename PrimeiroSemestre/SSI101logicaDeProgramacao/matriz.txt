@@ -1,0 +1,7 @@
+Matriz
+Condições de conclusão
+
+1) Algoritmo que lê e imprime na tela uma matriz A de tamanho 3x3 de números inteiros.
+
+2) Crie um algoritmo que leia uma matriz 5x5. Em seguida, conte quantos números pares existem na matriz e quantos números ímpares. Ao final imprima na tela essas informações
+Última atualização: sábado, 10 dez. 2022, 20:27

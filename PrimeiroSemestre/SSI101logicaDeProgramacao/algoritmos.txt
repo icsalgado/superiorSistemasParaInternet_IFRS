@@ -1,0 +1,17 @@
+Algoritmos
+Condições de conclusão
+
+1) Algoritmo que calcule a média de 30 alunos, mostre a média na tela e diga se o aluno está aprovado ou reprovado
+
+2) Algoritmo que informe os produtos disponíveis na fruteira: 
+
+Banana (B), Laranja (L) e Uva (U) e pergunte:
+
+a) o código da fruta que deseja comprar
+
+b) quantos kg vai levar
+
+c) o preço por kg
+
+Ao final o algoritmo deve informar o valor a ser pago pelo cliente e o nome da fruta que está levando por extenso.
+Última atualização: segunda-feira, 5 dez. 2022, 16:0i3

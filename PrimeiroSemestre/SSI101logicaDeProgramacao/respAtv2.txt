@@ -1,0 +1,39 @@
+Algoritmo "temperatura _anual"
+//Fa�a um algoritmo para ler e armazenar em um vetor a temperatura m�dia de todos os dias do ano. Calcular e escrever:
+//a) Menor temperatura do ano
+//b) Maior temperatura do ano
+//c) Temperatura m�dia anual
+//d) O n�mero de dias no ano em que a temperatura foi inferior a m�dia anual
+//OBS: considerar o ano com 365 dias
+Var
+   temp: vetor [1..5]de real
+   i, cont:inteiro
+   maior_temp, soma_temp, menor_temp, media_temp:real
+
+Inicio
+
+   para i de 1 ate 5 faca
+      escreval ("Informe a temperatura m�dia do dia")
+      leia (temp[i])
+      soma_temp := soma_temp + temp[i]
+   fimpara
+   media_temp:= soma_temp/5
+   maior_temp := temp [1]
+   menor_temp := temp [1]
+   para i de 1 ate 5 faca
+      Se maior_temp < temp[i] entao
+         maior_temp:= temp[i]
+      fimse
+      Se menor_temp > temp[i] entao
+         menor_temp:=  temp[i]
+      fimse
+
+      se temp[i] < media_temp entao
+         cont:= cont +1
+      fimse
+   fimpara
+   Escreval("Maior temperatura:", maior_temp)
+   Escreval("Menor temperatura:", menor_temp)
+   Escreval("Temperatura m�dia anual:", media_temp)
+   Escreval("N�mero de dias do ano com temperatura inferior:", cont)
+Fimalgoritmo

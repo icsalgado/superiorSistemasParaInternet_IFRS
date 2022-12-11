@@ -1,0 +1,3 @@
+Agora que você já conhece as duas estruturas de seleção (SE e CASO), deve ter percebido que tudo que se faz com CASO, dá para fazer com SE, mas nem tudo que se faz com SE, dá para fazer com CASO.
+
+O comando CASO possui algumas limitações como: não permitir o uso de operadores relacionais (>,<,<>, >=, <=), operadores lógicos ( E, OU, NÃO) entre outros na condição.

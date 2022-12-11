@@ -1,0 +1,30 @@
+Comando Arquivo
+Condições de conclusão
+
+O VisuAlg permite o armazenamento de dados em um arquivo-texto, obtendo deles os dados ao executar os comandos leia.
+
+Esta característica funciona da seguinte maneira:
+
+Se não existir o arquivo com nome especificado , o VisuAlg fará uma leitura de dados através da digitação, armazenando os dados lidos neste arquivo, na ordem em que forem fornecidos, ou seja na primeira vez que usar o arquivo "testealg.txt" (ver exemplo abaixo)
+Se o arquivo existir, o VisuAlg obterá os dados deste arquivo até chegar ao seu fim. Daí em diante, fará as leituras de dados através da digitação, ou seja, na segunda vez que rodar o programa o arquivo "testealg.txt" já existirá, então ele puxará os dados do arquivo.
+Somente um comando arquivo pode ser empregado em cada pseudocódigo, e ele deverá estar na seção de declarações
+Caso não seja fornecido um caminho, o VisuAlg irá procurar este arquivo na pasta de trabalho corrente (geralmente, é a pasta onde o programa VISUALG.EXE está). Este comando não prevê uma extensão padrão; portanto, a especificação do nome do arquivo deve ser completa, inclusive com sua extensão (por exemplo, .txt, .dat, etc.).
+A sintaxe do comando é:
+
+arquivo < nome-de-arquivo >
+<nome-de-arquivo> é uma constante caractere (entre aspas duplas).
+
+Exemplo:
+
+Algoritmo "lendo do arquivo"
+     arquivo "testealg.txt"
+var
+
+        i, y: inteiro
+inicio
+       para i de 1 ate 5 faca
+             leia (y)
+       fimpara
+fimalgoritmo
+
+Execute esse algoritmo duas vezes e veja o que acontece
