@@ -1,0 +1,35 @@
+/******************************************************************************
+
+                            Online C Compiler.
+                Code, Compile, Run and Debug C program online.
+Write your code in this editor and press "Run" button to compile and execute it.
+
+*******************************************************************************/
+
+#include <stdio.h>
+
+int main(){
+    int c1=0,c2=0,c3=0,c4=0,c5=0,branco=0,nulo=0, voto;
+    do{
+        printf("Digite seu voto: ");
+        scanf("%d",&voto);
+        switch(voto){
+            case 1: c1++; break;
+            case 2: c2++; break;
+            case 3: c3++; break;
+            case 4: c4++; break;
+            case 5: c5++; break;
+            case 7: branco++; break;
+            case 0: break;
+            default: nulo++; break;
+        }
+    }while(voto!=0);
+    printf("Candidata 1: %d votos\n",c1);
+    printf("Candidata 2: %d votos\n",c2);
+    printf("Candidata 3: %d votos\n",c3);
+    printf("Candidata 4: %d votos\n",c4);
+    printf("Candidata 5: %d votos\n",c5);
+    printf("Votos em branco: %d\n",branco);
+    printf("Votos nulos: %d votos",nulo);
+}
+
