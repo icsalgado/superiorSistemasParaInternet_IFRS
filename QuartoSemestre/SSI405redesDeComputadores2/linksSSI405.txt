@@ -2,3 +2,5 @@ A1
 	https://www.computerhistory.org/timeline/networking-the-web/
 	https://www.rnp.br/sistema-rnp/ferramentas/panorama-de-trafego
 	https://youtu.be/aYAxv5vDdLw - conceitos básicos
+	https://rrd.pop-rs.rnp.br/
+	https://beta.simet.nic.br/
