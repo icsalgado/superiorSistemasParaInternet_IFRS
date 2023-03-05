@@ -1,44 +1,67 @@
-# Superior de Tecnologia em Sistemas para Internet
+# <img src="https://moodle.poa.ifrs.edu.br/pluginfile.php/1/theme_learnr/loginbackgroundimage/1677779721/campus-poa-moodle-principal2.jpg" align="center" width="50px" style="border-radius: 60px"> Sistemas para Internet
 <a href="http://www.poa.ifrs.edu.br/index.php?option=com_content&view=article&layout=edit&id=3206">Página do curso</a>
 
 ## <a href="https://www.poa.ifrs.edu.br/?skip=true"> <img src="https://raw.githubusercontent.com/icsalgado/assets/master/.ifwhite.png?token=GHSAT0AAAAAABYDMSONT5VGPS5ZGCRYJG5IY2KGS6Q" width="15px"> INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA - CAMPUS PORTO ALEGRE</a>
 
+<table border="1px">
+    <tr>
+        <th>1 Sem</th>
+        <th>2 Sem</th>
+        <th>3 Sem</th>
+        <th>4 Sem</th>
+        <th>5 Sem</th>
+        <th>6 Sem</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/PrimeiroSemestre/SSI101logicaDeProgramacao">Logica Prog.</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/PrimeiroSemestre/SSI102inglesTecnico">Ing. Tec.</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/PrimeiroSemestre/SSI103fundamentosDaComputacao">Fund. Comp.</a></td>
+        <td></td>
+        <td></td>
+        <td>Sist. Oper.</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/PrimeiroSemestre/SSI104construcaoDePaginasWeb1">Pg. Web</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/PrimeiroSemestre/SSI105LinguagemDeProgramacao1">Ling. Prog. C</a></td>
+        <td></td>
+        <td></td>
+        <td>Redes 2</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/PrimeiroSemestre/SSI106interfaceHomemComputador">Interf. H-C</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
-<!--linkedin-->
-### Sobre 
-> Tenho mais de 10 anos de experiência no suporte técnico. Com base na manutenção de equipamentos eletrônicos, desenvolvi uma carreira dentro da gestão de equipes técnicas sem deixar de lado por muito tempo as raizes "mão na massa". Sempre estive ligado a programação, inicialmente com microcontroladores e hoje com o desenvolvimento web. Pretendo agora, me especializar na linguagem PHP e em paralelo absorver a cultura e ferramentas do DevOps.
+<br><img src="perfilCurso.png" wodth="auto">
 
-### About
-> I have more than 10 years of technical support experience. Based on the maintenance of electronic equipment, I developed a career within the management of technical teams without leaving aside for a long time the roots "hands-on". I have always been connected to programming, initially with microcontrollers and today with web development. I intend now to specialize in the PHP language and in parallel absorb the DevOps culture and tools.
 
-<a href="https://www.linkedin.com/in/icsalgado/" target="_blank"><img src="https://raw.githubusercontent.com/icsalgado/assets/master/.lkn.png?token=GHSAT0AAAAAABYDMSONWQZ5QE5BD6JGUVTUY2KGDCQ" width="20px"></a> 
-
-<!--Descrição do repositório-->
-## O que vais encontrar por aqui...
-> O repositório vai estar dividido primeiro nos semestres que eu estou cursando ou já cursei e, dentro de cada um, as disciplinas. SSI é a sigla do curso e o número sem seguida é o código da disciplina. Tentei organizar a sequência do conteúdo nas aulas, A1..A2... 
-
-## What you’ll find around here...
-> The repository will be divided first in the semesters that I am attending or have already attended and, within each, the disciplines. SSI is the acronym of the course and the following number is the discipline code. I tried to organize the sequence of the content in the classes, A1.. A2...
-
-## Hard Skills
->> Lógica de programação, Português Estruturado, Fluxogramas, VisualG
-
->> Inglês Técnico, reading, speaking, listening, writing, grammar
-
->> Bases Numéricas e algebra binária, Algebra e expressões booleanas, múltiplos binários, Portas Lógicas e memórias
-
->> HTML, CSS e Javascript
-
->> Linguagem C
-
->> Técnicas de prototipação, documentação básica de projetos e interface homem-computador
-
-### Competências e carga horária (CH do curso 2216 horas)
-- Lógica de Programação 100hrs
-- Ingês Técnico 40hrs
-- Fundamentos da Computação 80hrs
-- Construção de Páginas Web I 80hrs
-- Linguagem de Programação I 80hrs
-- Interface Homem Computador 40hrs
-
-[![GitHub license](https://img.shields.io/github/license/icsalgado/superiorSistemasParaInternet_IFRS)](https://github.com/icsalgado/superiorSistemasParaInternet_IFRS)
