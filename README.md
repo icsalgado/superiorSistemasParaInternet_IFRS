@@ -32,7 +32,7 @@
         <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/PrimeiroSemestre/SSI103fundamentosDaComputacao">Fund. Comp.</a></td>
         <td></td>
         <td></td>
-        <td>Sist. Oper.</td>
+        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/QuartoSemestre/SSI403sistemasOperacionais">Sist. Oper.</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -48,7 +48,7 @@
         <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/PrimeiroSemestre/SSI105LinguagemDeProgramacao1">Ling. Prog. C</a></td>
         <td></td>
         <td></td>
-        <td>Redes 2</td>
+        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/QuartoSemestre/SSI405redesDeComputadores2">Redes 2</a></td>
         <td></td>
         <td></td>
     </tr>
