@@ -3,4 +3,19 @@ A1
 	Historia do Linux https://www.youtube.com/watch?v=tt2nHK0oaSg
 	Historia do Windows https://www.youtube.com/watch?v=0Fjwg6q_cfI
 	
+	Revisão
+	SO serve de interface entre usuário e o hardware
+	Prioridade e Afinidade - controle no gerenciador de tarefas
+	Segurança dos arquivos é responsabilidade do sistema operacional
+	Tread - fluxo de execução
+	Windows protege acesso ao hardware mas não protege o acesso ao kernel e o Linux não protege o acesso ao hardware e protege o kernel
+
+A2	
+	https://www.inf.ufrgs.br/~johann/sisop1/minixpage/#toc9 - instalar minix
+	Monolitico - problema, se uma coisa travar trava tudo
+	Camadas - muito lento
+	Micronúcleos - alta complexidade de gerenciamento
+	Exenucleo - alta complexidade para o desenvolvedor
 	
+	VMware/HyperV/KLM são exemplos de hypervisor
+	https://www.softwareforeducation.com/
