@@ -15,7 +15,73 @@ A2
 	Monolitico - problema, se uma coisa travar trava tudo
 	Camadas - muito lento
 	Micronúcleos - alta complexidade de gerenciamento
+		https://www.tecmundo.com.br/dispositivos-moveis/215460-historia-symbian-sistema-operacional-referencia-do-android-ios.htm
 	Exenucleo - alta complexidade para o desenvolvedor
-	
-	VMware/HyperV/KLM são exemplos de hypervisor
+	Uninucleo - Ex. Roteador - exemplo de sistemas embarcados
+	VMware/HyperV/KVM são exemplos de hypervisor
 	https://www.softwareforeducation.com/
+
+A3
+	Pesquisar processo de boot (https://www.tecmundo.com.br/aumentar-desempenho/11266-como-funciona-o-boot-de-um-computador.htm)
+	O nome “BIOS” vem do acrônimo Basic Input/Output System (“Sistema básico de entrada e saída”, em tradução livre para português).
+	MBR - setor do disco onde está o sistema operacional ou GRUB - O gerenciador de arquivos faz essa função
+	Importância da FAT - https://learn.microsoft.com/pt-br/troubleshoot/windows-client/backup-and-storage/fat-hpfs-and-ntfs-file-systems
+	
+	Tipos de interrupções 
+		1 hardware 
+		2 software
+			driver
+			
+	Interrupções são feitas para acessar o processador, ou seja, chama o processador.
+	Um processo é um conjunto de instruções
+	
+	contador 0 a 9 em assembler
+		Start:
+		MOV AL,FB ; 1111 1011
+		OUT 02
+		MOV AL,B
+		OUT 02
+		MOV AL,B7 
+		OUT 02
+		MOV AL,9F ; 1001 1111
+		OUT 02
+		MOV AL,4F ; 0100 1111
+		OUT 02
+		MOV AL,DD ; 1101 1101
+		OUT 02
+		MOV AL,FD ; 1111 1101
+		OUT 02
+		MOV AL,8B ; 1000 1011
+		OUT 02
+		MOV AL,FF ; 1111 1111
+		OUT 02
+		MOV AL,CF ; 1100 1111
+		OUT 02
+		JMP Start
+		END
+	Básico do elevador
+		Start:
+		MOV AL, 1
+		OUT 06
+
+		IN 06
+		CMP AL, 5 ; compara se o 5 está em AL
+		JZ Poweroff ; pula conforme a comparação acima é verdadeira equivalente a um if
+
+		JMP Start ; equivalente a um else
+
+		Poweroff:
+		MOV AL, 2
+		OUT 6
+
+		END
+	
+	https://www.spartacussystem.com.br/home/sistemas-operacionais/unix/xenserver/instalando-xenserver]
+	https://definirtec.com/kvm-hypervisor/
+	https://linuxuniverse.com.br/linux/qemu
+	
+	Containers
+		isolamento total
+		sem SO, apenas recursos necessários
+	
+	Em sistemas exonucleo a aplicação vai acessar o hardware
