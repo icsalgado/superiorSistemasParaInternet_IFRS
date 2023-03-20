@@ -1,0 +1,17 @@
+A1
+	https://www.computerhistory.org/timeline/networking-the-web/
+	https://www.rnp.br/sistema-rnp/ferramentas/panorama-de-trafego
+	https://youtu.be/aYAxv5vDdLw - conceitos básicos
+	https://rrd.pop-rs.rnp.br/
+	https://beta.simet.nic.br/
+
+A2
+	https://www.youtube.com/watch?v=vwLj9d--Td4&embeds_euri=https%253A%252F%252Fmoodle.poa.ifrs.edu.br%252F&feature=emb_imp_woyt
+	https://www.youtube.com/watch?v=T-pttZyCcpk&embeds_euri=https%3A%2F%2Fmoodle.poa.ifrs.edu.br%2F&feature=emb_imp_woyt
+	https://www.youtube.com/watch?v=hS2Tct72T9E&embeds_euri=https%3A%2F%2Fmoodle.poa.ifrs.edu.br%2F&feature=emb_imp_woyt
+	https://www.youtube.com/watch?v=ZRu47z_3ofs
+	https://www.teleco.com.br/tutoriais/tutorialosi/pagina_1.asp
+
+A3
+	Forum internacional de internet exchange
+	SFP - emissor para fibra otica - dita a velocidade e distância para o sinal, vai dentro de um switch
