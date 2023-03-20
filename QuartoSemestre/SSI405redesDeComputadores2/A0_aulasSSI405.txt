@@ -15,3 +15,31 @@ A2
 A3
 	Forum internacional de internet exchange
 	SFP - emissor para fibra otica - dita a velocidade e distância para o sinal, vai dentro de um switch
+	Fibra Multimodo
+		feixe gerado por led, mais barato e grosso e vai refletindo nas paredes e é a mais usada em residências
+	Fibra Monomodo
+		feixe gerado por laser, mais caro e segue em linha reta
+A4
+	Roteadores mesh são usados residêncialmente, com limite de conexões, para empresas é preciso um controlador de wifi, consequentemente mais caro
+	
+	Camada de enlace
+		o controle de fluxo é feito no enlace e transporte
+		é a única camada que tem um trailer - frame no final do pacote - um teste para saber se os bits transmitidos estão corretor -controle de erro
+		o meio fisico não é "visto" pela camada de enlace
+		sem conexão e sem confirmação - precisa confiar na infraestrutura
+			utilizado em LANs, trafego real e baixa taxa de erros
+		sem conexão e com confirmação - interessante para redes sem fio e canais menos confiáveis
+		orientado a conexão e com confirmação
+			inicialização de variaveis de controle - abre a conexão
+			transmissão dos quadros
+				garantia de entrega
+				garantia de apenas um recebimento
+				garantia de entrega na ordem
+			liberação das variaveis, buffers e outros recursos - fecha a conexão
+		
+		Correção de erros
+			frame relay
+		Detecção de erros
+			utilizado atualmente por causa da quantidade de dados enviado, é mais fácil retransmitir
+		Na camada de enlace não exite roteamento, todos se enxergam, o MPLS é um protocolo responsável por isso
+		
