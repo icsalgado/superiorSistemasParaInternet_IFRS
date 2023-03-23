@@ -85,3 +85,52 @@ A3
 		sem SO, apenas recursos necessários
 	
 	Em sistemas exonucleo a aplicação vai acessar o hardware
+A4
+	Programa é estático, binarios que executarão uma função para resolver um problema
+	Tarefas (Threads e processos) - execução de um programa
+		tarefas podem ter mais de um processo
+		possui estados
+		comportamento
+		duração
+		importância
+		O gerenciamento de tarefas
+			monotarefa
+				uma tarefa por vez
+				sem módulo monitor - programador feito por humanos
+				com módulo monitor - fila de programas controlado por esse programa de controle
+				estados
+					nova
+					rodando
+					terminada
+				Problema
+					fica esperando dados e o processador fica ocioso
+			multitarefas
+				uma tarefa ativa e as demais prontas, esperando ou suspensas
+				enquanto uma tarefa esta pronta, aguardando dados, o processador executa outra tarefa (preemptivo)
+				estados
+					novo
+					pronto  <<<<<<<<<<<<
+					rodando > suspenso /\ (aguardando dados)
+					finalizado
+				evita que o processador fique ocioso
+				Problema
+					loops infinitos - a tarefa vai ficar executando sem nunca terminar
+			tempo compartilhado
+				Prazo de processamento
+				todas as tarefas tem um tempo para usar o processador (quantum)
+		Ciclo de vida de uma tarefa
+			nova > pronta
+			pronta > executando
+			executando > pronta
+			executando > suspensa
+			suspensa > pronta
+			executando > terminada
+			terminada > descarregada
+		Troca de contexto
+			é preciso guardar todos os parâmetros da tarefa que foi removida da execução por tempo (dispatcher guarda esse estado no TCB)
+			isso só ocorre em tempo compartilhado
+	A thread pode ser dita como uma subrotina de um processo, ou seja, a thread é um processo simplicficado
+		todo processo é uma thread, um processo pode ter mais de uma thread
+		as threads podem ser executadas de forma sincrona ou assincrona
+		lidar com threads pode deixar a execução do programa mais rápido porém é preciso observar o gargalo, por exemplo saídas de texto e escrita de disco
+		http://linguagemc.com.br/arquivos-em-c-categoria-usando-arquivos/ - exemplo para escrever em arquivos
