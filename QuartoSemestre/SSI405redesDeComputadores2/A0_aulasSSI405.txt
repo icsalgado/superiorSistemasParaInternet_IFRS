@@ -42,4 +42,27 @@ A4
 		Detecção de erros
 			utilizado atualmente por causa da quantidade de dados enviado, é mais fácil retransmitir
 		Na camada de enlace não exite roteamento, todos se enxergam, o MPLS é um protocolo responsável por isso
+A5
+	Prova 1
+A6
+	Gestão de IPs no mundo
+		AfriNIC - africa
+		APNIC - asia
+		ARIN - America do nort
+		LACNIC - America central e do sul
+		RIPE NCC - Europa e Russia
 		
+	https://www.google.com/intl/pt-BR/ipv6/statistics.html
+		uso do IPV6 em cada pais
+		
+	No linux a busca sempre é por ipv6 primeiro, no windows testa qual é mais rápido
+	
+	Akamai Technologies - Grandes empresas armazenam seus dados na akamai para redistribuir, como Disney e Microsoft
+	
+	netstat -na | find "443" /c
+	netstat -na | find "443"
+	Global crossing - provedor
+	
+	ipv6
+		64 bits rede - 64 bits host
+	multiacast é usado apenas em rede local
