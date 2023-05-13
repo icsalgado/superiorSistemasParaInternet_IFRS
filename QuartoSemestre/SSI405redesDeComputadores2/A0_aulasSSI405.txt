@@ -19,6 +19,17 @@ A3
 		feixe gerado por led, mais barato e grosso e vai refletindo nas paredes e é a mais usada em residências
 	Fibra Monomodo
 		feixe gerado por laser, mais caro e segue em linha reta
+		
+	http://tecnologiaerede.blogspot.com/2014/05/diferenca-entre-fibra-monomodo-e.html
+	https://www.youtube.com/watch?v=0MwMkBET_5I
+	https://www.youtube.com/watch?v=LVRUwlt0_BM
+	https://www.youtube.com/watch?v=EK9bblRKayA
+	https://www.youtube.com/watch?v=M2w80RI31i8
+	https://www.youtube.com/watch?v=nXBiReoqxAo
+	https://www.youtube.com/watch?v=cLUnfxvu-t8
+	https://www.khanacademy.org/science/electrical-engineering/ee-signals#ee-fourier-series
+	https://www.youtube.com/watch?v=Cc_Y2uP-Fag
+	https://www.youtube.com/watch?v=ancDN11C2vg
 A4
 	Roteadores mesh são usados residêncialmente, com limite de conexões, para empresas é preciso um controlador de wifi, consequentemente mais caro
 	
