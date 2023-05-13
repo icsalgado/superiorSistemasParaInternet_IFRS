@@ -1,0 +1,61 @@
+#include <stdio.h>
+#include <time.h>
+#include <unistd.h> 
+#include <stdlib.h>
+
+int main(){
+int i;
+unsigned int ex;
+
+
+//Cria??o do Arquivo 01
+FILE *txt;
+if((txt = fopen("Arquivo01.txt", "w")) == NULL)    {
+        printf("Erro ao abrir arquivo");
+    }
+ else {
+       
+	  	//Definindo a Semente Inicial do Gerador Aleat?rio
+		ex = ((unsigned) time(NULL)) ; 
+		
+		srand(ex) ; 
+		int c; 
+	     i = 0;
+         while(i < 1000000000)
+         {
+               c = rand() % 1000000;
+               if (((c%7)==0) && ((c%14)==0) && ((c%42)==0)&& ((c%84)==0) && ((c%31)==0)) 
+               {
+			      fprintf(txt, "%d\n",c);
+			   }
+               ++i;
+          }
+		fclose(txt);
+      }
+
+//Cria??o do Arquivo 02
+FILE *txt2;
+if((txt2 = fopen("Arquivo02.txt", "w")) == NULL)    {
+        printf("Erro ao abrir arquivo");
+    }
+ else {
+       
+	  	//Definindo a Semente Inicial do Gerador Aleat?rio
+		ex = ((unsigned) time(NULL)) ; 
+		
+		srand(ex) ; 
+		 int c;
+	     i = 0;
+         while(i < 1000000000)
+         {
+              c = rand() % 100000;
+			  if (((c%3)==0) && ((c%6)==0) && ((c%31)==0) && ((c%99)==0) && ((c%33)==0)) 
+			   {
+			      fprintf(txt2, "%d\n",c);
+           	   }	
+			   ++i;
+          }
+		fclose(txt2);
+      }
+
+}
