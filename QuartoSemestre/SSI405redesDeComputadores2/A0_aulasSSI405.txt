@@ -53,6 +53,15 @@ A4
 		Detecção de erros
 			utilizado atualmente por causa da quantidade de dados enviado, é mais fácil retransmitir
 		Na camada de enlace não exite roteamento, todos se enxergam, o MPLS é um protocolo responsável por isso
+		
+	https://www.youtube.com/watch?v=BZyidyhznKw
+	https://www.youtube.com/watch?v=eY7sOIISsQA
+	https://www.youtube.com/watch?v=k89O-p-j4LM
+	https://www.youtube.com/watch?v=Gw5JZi0fiKc
+	https://www.youtube.com/watch?v=6InayFPyGGw
+	https://www.youtube.com/watch?v=APMAJEe1yAY
+	https://www.youtube.com/watch?v=sdilHFWJmHo
+	https://www.tutorialspoint.com/data_communication_computer_network/error_detection_and_correction.htm
 A5
 	Prova 1
 A6
