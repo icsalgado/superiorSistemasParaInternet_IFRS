@@ -60,7 +60,7 @@ A4
 	https://www.youtube.com/watch?v=Gw5JZi0fiKc
 	https://www.youtube.com/watch?v=6InayFPyGGw
 	https://www.youtube.com/watch?v=APMAJEe1yAY
-	https://www.youtube.com/watch?v=sdilHFWJmHo
+	https://www.youtube.com/watch?v=sdilHFWJmHo 
 	https://www.tutorialspoint.com/data_communication_computer_network/error_detection_and_correction.htm
 A5
 	Prova 1
