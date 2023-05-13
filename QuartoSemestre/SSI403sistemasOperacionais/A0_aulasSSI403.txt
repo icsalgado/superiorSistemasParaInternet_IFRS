@@ -138,6 +138,7 @@ A5
 	github não salvou =´[
 
 A6
+	Video Escalonador https://www.youtube.com/watch?v=TQj3Bb5aYlo
 	Programa em execução é um PROCESSO com estados, ocupando recursos
 		no mínimo uma thread rodando
 	A THREAD não vai duplicar toda a pilha de execução de um processo
