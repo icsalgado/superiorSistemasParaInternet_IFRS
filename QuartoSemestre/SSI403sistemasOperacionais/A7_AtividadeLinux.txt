@@ -1,0 +1,19 @@
+1) Acessar o Servidor aula.infr.poa.ifrs.edu.br
+
+2) Fazer um script que gere um arquivo com todos valores pares, de 1 até 1.000 (pode usar o sleep - foco não é velocidade)
+
+3) Executar o script em segundo plano.
+
+4) Fechar a sessão.
+
+5) Abrir nova sessão e verificar se o scrip finalizou.
+
+dica:
+* Gerar o aquivo em /tmp
+* Para verificar o crescimento do arquivo, use tail -f <arquivo>
+
+1) Fazer um programa em C que excecute dois Processos (usar o Gera RAND da Semana 05). Abrir o programa duas vezes.
+
+2) Alterar o NICE (diminuindo a prioridade) da primeira tarefa.
+
+3) Verificar qual programa irá finalizar primeiro
