@@ -86,3 +86,6 @@ A6
 	ipv6
 		64 bits rede - 64 bits host
 	multiacast é usado apenas em rede local
+	
+	https://www.youtube.com/playlist?list=PLQq8-9yVHyOZF5bSWrhUu7aMiwyiAvuhQ
+	https://www.youtube.com/watch?v=zRWK7LDdph4

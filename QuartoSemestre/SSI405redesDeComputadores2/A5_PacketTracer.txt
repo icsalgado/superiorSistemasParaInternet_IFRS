@@ -1,0 +1,67 @@
+Para configurar o Cisco Packet Tracer e incluir um roteador
+
+- Abra o packet Tracer com Guest Login caso não possua login na cisco ( para salvar utilize CRTL + ALT + G)
+
+- Inclua um roteador 2901
+
+- Inclua um PC desktop
+
+- Realize uma conexão console ( cabo azul) entre a RS 232 do PC e o console do Roteador
+
+- Abra o PC, selecione Desktop / Terminal para ter acesso ao PC
+
+Configuração dos Roteadores
+
+Para acessar o terminal de configuração
+
+RN# conf terminal
+
+Para Habilitar o IPv6 
+
+        RN# ipv6 unicast-routing
+
+ Para acessar a configuração de uma interface de rede específica (por exemplo, f0/0)
+
+RN# int fx/x
+
+Configurar um IPv6 na interface atual
+
+RN# ipv6 address XXX/YY
+
+Habilitar a interface
+
+RN# no shutdown
+
+Para habilitar o roteamento (volte para o nível config com exit)
+
+ipv6 unicast-routing
+
+Para criar as rotas
+
+ipv6 route <rede>  <IP de saida>
+
+exemplo:
+
+ipv6 route ::/0  2001::1
+
+Comandos diversos
+
+Para salvar
+
+write
+
+Sair para o nível abaixo
+
+exit
+
+Sair para o primeiro nível
+
+end
+
+Desfazer uma configuração
+
+no comando
+
+Nesse outro vídeo tem a execução do exercício completo com todos os comandos (cuidem apenas que em 6:12 no vídeo tem uma configuração que é feita errada por engano):
+
+https://www.youtube.com/watch?v=zRWK7LDdph4
