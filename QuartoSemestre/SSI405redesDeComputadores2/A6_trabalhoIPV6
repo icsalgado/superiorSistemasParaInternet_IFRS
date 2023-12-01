@@ -1,0 +1,69 @@
+
+Trabalho prático de IPv6
+Condições de conclusão
+Aberto: segunda-feira, 1 mai. 2023, 19:01
+Vencimento: domingo, 21 mai. 2023, 18:59
+
+Trabalho para realizar em dupla
+
+PLANEJAMENTO:
+
+Você possui 16 filiais conectados em uma matriz que precisam de comunicar. Voce deve configurar em cada filial um gateway e uma estação de trabalho na rede interna.
+Para realizar isto, voce recebeu a rede 2001:db8:cafe::/48 que deve ser dividida para as 16 filiais.
+
+Para ajudar nessa tarefa, voce pode utilizar o site: http://ipv6.br/paginas/subnet utilizando a técnica right-most.
+
+Após descobrir a rede de cada uma das 16 filias, você deve passar para a fase de implementação.
+
+IMPLEMENTAÇÃO:
+
+Voce e seu colega deverão implementar a estrutura mínima de UMA(1) das 16 filiais, isso é um PC e um Gateway (GW).
+
+( filial X (PC <---> GW )) <---------> Matriz <--------> ( filial Y (PC <---> GW ))
+
+
+Para saber qual filial sua dupla irá implementar, pergunte ao professor o seu NÚMERO ( de 1 a 16), assim você saberá a sua rede. Exemplo: se seu número é 5, você implementará a 5ª rede do seu planejamento.
+
+
+Sabendo o endereço da rede Interna de sua filial, você será capaz de conectar seu PC a seu GW. Para conectar seu GW na matriz, você deverá utilizar a rede ponto a ponto da relação abaixo, referente ao seu NÚMERO, sendo que, o IPv6 do GW de sua filial é o endereço PAR. O IMPAR é da matriz.
+
+
+1 - 2001:db8:ffff::00/126
+2 - 2001:db8:ffff::04/126
+3 - 2001:db8:ffff::08/126
+4 - 2001:db8:ffff::0C/126
+5 - 2001:db8:ffff::10/126
+6 - 2001:db8:ffff::14/126
+7 - 2001:db8:ffff::18/126
+8 - 2001:db8:ffff::1C/126
+9 - 2001:db8:ffff::20/126
+10 - 2001:db8:ffff::24/126
+11 - 2001:db8:ffff::28/126
+12 - 2001:db8:ffff::2C/126
+13 - 2001:db8:ffff::30/126
+14 - 2001:db8:ffff::34/126
+15 - 2001:db8:ffff::38/126
+16 - 2001:db8:ffff::3C/126
+
+
+ETAPAS - SUGESTÃO de ROTEIRO:
+
+
+- Configure GW com duas interfaces de rede em modo bridge . Uma para rede conectar o PC e outra para comunicar com a Matriz.
+
+- Configure o netpla com os endereços IP da rede Interna e do Ponto a Ponto, definindo o gateway default para o ponto a ponto. Existe apenas UM gateway
+
+- Habilite o IP Forwarding no Gateway
+
+- Configure o endereço IP no PC, sendo o Gateway o endereço IP da maquina GW
+
+TESTES:
+
+- Utilizando o comando tracepath6, teste o acesso em IPv6 para a rede de um colega. Caso tenha problemas, lembre de desenhar a rede e ir realizando pings em todos os locais que seu pacote deverá passar até chegar ao destino desejado.
+
+ 
+
+Envio:
+
+Envie o tracepath6 executados do seu PC para outros dois PCs de outros grupos.
+

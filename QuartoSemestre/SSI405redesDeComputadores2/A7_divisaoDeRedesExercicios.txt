@@ -1,0 +1,27 @@
+
+A - Exercício de Divisão de Redes
+Condições de conclusão
+Aberto: sexta-feira, 19 mai. 2023, 18:01
+Vencimento: segunda-feira, 29 mai. 2023, 23:59
+
+Identifique:
+- Endereço de rede
+- Máscara de sub-rede (decimal)
+- Endereço de broadcast
+- Primeiro endereço de host
+- Último endereço de host
+- Número de hosts possíveis
+
+Das redes:
+10.0.0.0/24
+10.0.0.0/16
+10.0.0.0/8
+200.132.53.0/24
+192.168.0.0/16
+172.16.1.0/24
+200.132.53.0/25
+200.132.53.0/27
+200.132.53.32/27
+200.132.53.64/27
+200.132.53.64/28
+

@@ -38,6 +38,6 @@ int main(){
     printf("A media dos valores impares e: %.2f\nE o maior par é: %d\n", media/(impar-1), maior);//impar-1 por que ao menos uma vez o zero vai ser digitado, assim já elemina ele
 
 
-    printf("\n\nProgramador: Iuri de Carvalho Salgado\n\n");
+    
 
 }

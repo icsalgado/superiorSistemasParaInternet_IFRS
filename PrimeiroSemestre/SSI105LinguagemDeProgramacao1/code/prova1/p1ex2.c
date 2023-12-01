@@ -28,6 +28,4 @@ int main(){
         printf("Mes%d | R$ %f\n", contador, saldo);
         contador++;
     }while(saldo < meta);
-
-    printf("\n\nProgramador: Iuri de Carvalho Salgado\n\n");
 }

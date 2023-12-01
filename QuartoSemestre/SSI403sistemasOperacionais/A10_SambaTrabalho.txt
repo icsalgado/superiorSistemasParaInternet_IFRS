@@ -1,0 +1,18 @@
+
+
+Trabalho de Pesquisa e Implementação. Fazer um Vídeo demonstrando o Acesso de Pastas entre Windows e Linux (samba). 
+
+Prazo: 01/06/2023
+
+Peso: 10 pontos. 
+
+Critérios de Avaliação:
+
+- Funcionamento - Precisa estar funcionando o compartilhamento.  (30%)
+
+- Entendimento - Necessário explicar o que foi feito e como foi feito.  (30%)
+
+- Entrega - Link do Vídeo explicativo (detalhado) do Trabalho. (30%)
+
+- Prazo - Entrega no Prazo. (10%)
+

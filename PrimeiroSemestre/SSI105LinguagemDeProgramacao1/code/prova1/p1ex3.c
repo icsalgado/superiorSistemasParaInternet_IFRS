@@ -91,5 +91,5 @@ int main(){
     printf("Votos nulos %d\n", nulosP);
     printf("Votos em branco %d\n\n", brancosP);
 
-    printf("\n\nProgramador: Iuri de Carvalho Salgado\n\n");
+    
 }

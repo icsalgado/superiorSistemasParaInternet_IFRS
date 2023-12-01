@@ -89,3 +89,34 @@ A6
 	
 	https://www.youtube.com/playlist?list=PLQq8-9yVHyOZF5bSWrhUu7aMiwyiAvuhQ
 	https://www.youtube.com/watch?v=zRWK7LDdph4
+	
+IPV6
+https://www.youtube.com/playlist?list=PLQq8-9yVHyOZF5bSWrhUu7aMiwyiAvuhQ
+
+https://www.youtube.com/watch?v=zRWK7LDdph4&feature=youtu.be
+
+A7
+Nivel de rede
+https://www.slideshare.net/decoperes/introduo-a-redes-de-computadores-9-nvel-de-rede-ip-p1
+
+RCF
+https://www.rfc-editor.org/rfc/rfc8140.txt
+
+Intro IPV4
+https://www.youtube.com/watch?v=csLAb3LQGXU&embeds_referring_euri=https%3A%2F%2Fmoodle.poa.ifrs.edu.br%2F&feature=emb_imp_woyt
+
+ARP
+https://youtu.be/abhQ4SrrBAk
+
+ICMP
+https://www.youtube.com/watch?v=q9O59Tl9-pA&embeds_referring_euri=https%3A%2F%2Fmoodle.poa.ifrs.edu.br%2F&feature=emb_imp_woyt
+
+IPV4
+https://www.youtube.com/watch?v=eAqeKud2Bys
+
+Livro arquitetura e protocolos
+https://www.scribd.com/doc/83505510/Arquitetura-e-protocolos-de-rede-TCP-IP
+
+
+
+

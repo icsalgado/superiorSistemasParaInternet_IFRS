@@ -145,3 +145,27 @@ A6
 		a comunicação é mais simples por que compartilha espaço de memória, porém pode ocorrer deadlock
 		
 	O escalonador de tarefas pode ser comparado ao controlador de voo
+
+A10
+livro pg 377
+https://biblioteca.ifrs.edu.br/pergamum_ifrs/biblioteca_s/acesso_login.php?cod_acervo_acessibilidade=5013550&acesso=aHR0cHM6Ly9taWRkbGV3YXJlLWJ2LmFtNC5jb20uYnIvU1NPL2lmcnMvOTc4ODU3NjA1MDExNw==&label=acesso%20restrito
+
+Livro pg 133
+https://biblioteca.ifrs.edu.br/pergamum_ifrs/biblioteca_s/acesso_login.php?cod_acervo_acessibilidade=5054010&acesso=aHR0cHM6Ly9taWRkbGV3YXJlLWJ2LmFtNC5jb20uYnIvU1NPL2lmcnMvOTc4ODU4NDgyMjMzMQ==&label=acesso%20restrito
+
+A11
+Video DMA
+https://eaulas.usp.br/portal/embed-video?idItem=14821&autostart=false
+Portas entrada e saída
+https://www.youtube.com/watch?v=aPKXmGkRxQ8&feature=youtu.be
+IRQs
+https://www.youtube.com/watch?v=EDeWcDlGQ_U&feature=youtu.be
+
+A12
+Linux
+https://www.youtube.com/watch?v=OrwKyECGgvQ&feature=youtu.be
+
+A13
+visita datacom
+
+A14
