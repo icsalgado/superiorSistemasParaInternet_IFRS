@@ -1,0 +1,145 @@
+https://www.youtube.com/watch?v=2lfzGiNCBLk&feature=youtu.be
+
+atividade 1 descrever cada linha
+#include<stdio.h>
+int main (){
+  int x, *px;
+  x = 1;
+  px = &x;
+  printf ("01. x= %d\n", x);
+  printf ("02. px= %u\n", px);
+  printf ("03. *px+1= %d\n", *px + 1);
+  printf ("04. px= %u\n", px);
+  printf ("05. *px= %d\n", *px);
+  printf ("06. *px+=1= %d\n", *px += 1);
+  printf ("07. px= %u\n", px);
+  printf ("08. (*px)++= %d\n", (*px)++);
+  printf ("09. px= %u\n", px);
+  printf ("10. *(px++)= %d\n", *(px++));
+  printf ("11. px= %u\n", px);
+  printf ("12. *px++= %d\n", *px++);
+  printf ("13. px= %u\n", px);
+}
+
+
+Condições de conclusão
+Atividades Ponteiros 2
+
+a - Crie um programa que leia 4 variáveis int, informe o endereço e o conteúdo de cada uma delas
+
+b- Crie uma função que recebe dois ponteiros inteiros como parâmetros e devolva a media aritmética dos conteúdos apontados (float); (fazer a média dos numeros, não dos endereços)
+
+c - Crie uma função que receba como parâmetro 3 ponteiros variáveis inteiras e devolva o maior valor (maior conteúdo, não o maior endereço);
+
+d - Crie uma função que receba como parâmetro 3 ponteiros para inteiro e devolva o endereço que aponta para a variável de maior valor; (importante: quero o endereço do maior valor, não o maior endereço...)
+
+float media(int a, int b){return (a+b)/2.0;}
+
+int vetor[10];
+void altera(int indice){
+	printf("Entre com o valor");scanf("%d",&vetor[indice]);}
+}
+
+int aux; scanf("%d",&aux);
+//altera(5);
+//if(vetor[5]==aux) OK; ERRADO:
+
+void zerar(int *ptr){
+	*ptr=0;
+	//ptr=0; ERRADO!!!
+}
+
+void troca(int *a, int *b){
+	int aux = *a;
+	*a = *b;
+	*b = aux;}
+int x=1, y=0;
+troca(&x,&y);
+if(y==1 && x==0) OK; ERRO;	
+	
+	
+void atribui(int *ptr, int valor){*ptr=valor; 
+	//ptr=valor;ERRADO!!!
+}
+int x=1;
+atribui(&x,1000);
+if(x==1000) OK; ERRO;
+
+
+int maior (int x, int y, int z){
+	int resp = x;
+	if(resp < y) resp=y;
+	if(resp < z) resp=z;
+	return resp;
+}
+if(maior(1,2,3)==3) printf("OK"); printf("ERRO");
+if(maior(-1,-2,3)==3) printf("OK"); printf("ERRO");
+if(maior(1,3,2)==3) printf("OK"); printf("ERRO");
+if(maior(1,2,-3)==2) printf("OK"); printf("ERRO");
+
+int *PtrMaior(int *x, int *y, int *z){
+	int *resp;
+	resp = x;
+	if(*resp < *y) resp=y;
+	if(*resp < *z) resp=z;
+	return resp;
+}
+int x=1;
+int y=2;
+int z=3;
+if(ptrMaior(&x,&y,&z)==&z) OK; ERRO;
+
+
+/**a - Crie um programa que leia 4 variáveis int, informe o endereço e o conteúdo 
+ * de cada uma delas
+
+b- Crie uma função que recebe dois ponteiros inteiros como parâmetros e devolva 
+a media aritmética dos conteúdos apontados (float); (fazer a média dos numeros, 
+não dos endereços)
+
+c - Crie uma função que receba como parâmetro 3 ponteiros variáveis inteiras e 
+devolva o maior valor (maior conteúdo, não o maior endereço);
+
+d - Crie uma função que receba como parâmetro 3 ponteiros para inteiro e devolva 
+o endereço que aponta para a variável de maior valor; (importante: quero o endereço
+do maior valor, não o maior endereço...)*/
+
+#include <stdio.h>
+
+float media(int* x, int* y){
+    return (*x+*y)/2.0;
+}
+
+int maiorValor(int *x, int* y, int * z){
+    int maior = *x;
+    if(*y>maior) maior=*y;
+    if(*z>maior) maior=*z;
+    return maior;
+}
+
+int* enderecoDoMaior(int *x, int* y, int * z){
+    int *resp;
+    resp = x;
+    if(*resp<*y) resp=y;
+    if(*resp<*z) resp=z;
+    return resp;
+}
+
+int main(){
+    int a, b, c, d;
+    printf("Digite o valor de a:");
+    scanf("%d",&a);
+    printf("Digite o valor de b:");
+    scanf("%d",&b);
+    printf("Digite o valor de c:");
+    scanf("%d",&c);
+    printf("Digite o valor de d:");
+    scanf("%d",&d);
+    printf("\nValor de a: %d - Endereco: %p\n",a,&a);
+    printf("Valor de b: %d - Endereco: %p\n",b,&b);
+    printf("Valor de c: %d - Endereco: %p\n",c,&c);
+    printf("Valor de d: %d - Endereco: %p\n",d,&d);
+    printf("\nitem b - Media de a e b: %f\n",media(&a,&b));
+    printf("\nitem c - Maior entre a, b e c: %d\n",maiorValor(&a,&b,&c));
+    printf("\nitem d - Endereco do Maior entre a, b e c: %p\n",enderecoDoMaior(&a,&b,&c));
+}
