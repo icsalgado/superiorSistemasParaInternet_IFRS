@@ -21,7 +21,7 @@
         <th>6º Sem</th>
     </tr>
     <tr>
-        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/PrimeiroSemestre/SSI101logicaDeProgramacao">Lógica Prog.</a></td>
+        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/semestre1/SSI101logicaDeProgramacao">Lógica Prog.</a></td>
         <td></td>
         <td></td>
         <td></td>
@@ -29,7 +29,7 @@
         <td></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/PrimeiroSemestre/SSI102inglesTecnico">Ing. Tec.</a></td>
+        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/semestre1/SSI102inglesTecnico">Ing. Tec.</a></td>
         <td></td>
         <td></td>
         <td></td>
@@ -37,33 +37,33 @@
         <td></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/PrimeiroSemestre/SSI103fundamentosDaComputacao">Fund. Comp.</a></td>
+        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/semestre1/SSI103fundamentosDaComputacao">Fund. Comp.</a></td>
         <td></td>
-        <td></td>
-        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/QuartoSemestre/SSI403sistemasOperacionais">Sist. Oper.</a></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/PrimeiroSemestre/SSI104construcaoDePaginasWeb1">Const. Pg. Web</a></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/semestre3/SSI305WebDesign">Web Design</a></td>
+        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/semestre4/SSI403sistemasOperacionais">Sist. Oper.</a></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/PrimeiroSemestre/SSI105LinguagemDeProgramacao1">Ling. Prog. 1 C</a></td>
+        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/semestre1/SSI104construcaoDePaginasWeb1">Const. Pg. Web</a></td>
         <td></td>
         <td></td>
-        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/QuartoSemestre/SSI405redesDeComputadores2">Redes 2</a></td>
+        <td></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/PrimeiroSemestre/SSI106interfaceHomemComputador">Interf. H-C</a></td>
+        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/semestre1/SSI105LinguagemDeProgramacao1">Ling. Prog. 1 C</a></td>
         <td></td>
         <td></td>
+        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/semestre4/SSI405redesDeComputadores2">Redes 2</a></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/semestre1/SSI106interfaceHomemComputador">Interf. H-C</a></td>
+        <td></td>
+        <td><a href="https://github.com/icsalgado/superiorSistemasParaInternet_IFRS/tree/master/semestre3/SSI306RedesDeCompputadores1">Redes 1</a></td>
         <td></td>
         <td></td>
         <td></td>
