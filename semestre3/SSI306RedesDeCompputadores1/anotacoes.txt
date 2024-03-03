@@ -1,0 +1,10 @@
+aula01
+
+	avaliações
+		1 - camada de aplicação, teorica
+		2 - camada de transporte, prática
+		3 - camada de rede, pode ser prática com cisco pkt com consulta ou teorica
+
+	LAN, WAN, MAN
+	intra/extra/internet
+
