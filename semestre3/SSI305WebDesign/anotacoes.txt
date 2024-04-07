@@ -4,4 +4,58 @@ aula 1
 	Video sobre web design
 	atividade sobre o video
 	inicio do flyer e cadastro no canva com e-mail institucional
+	
+	https://docs.google.com/presentation/d/e/2PACX-1vSdv1CCQjUivD1wyxUlXGGSuLvmZqgCb_qsBnS0dm0KvFLnzkHzaMF4V1iSVcMCYhTaf0ZH-we_-rj4/embed?start=false&loop=false&delayms=3000
+	
 	PDF aula - https://docs.google.com/presentation/d/e/2PACX-1vSdv1CCQjUivD1wyxUlXGGSuLvmZqgCb_qsBnS0dm0KvFLnzkHzaMF4V1iSVcMCYhTaf0ZH-we_-rj4/embed?start=false&loop=false&delayms=3000#slide=id.g3606f1c2d_30
+	
+	video webdesign https://youtu.be/oJPTnMDmfng
+	
+	Slide cores: https://docs.google.com/presentation/d/e/2PACX-1vRzNeeJU09jCKI5vSAYM5GBxX7UKyxPnT5dktRpVXMlhY3sV1LAuvmbnLqV7-9s1Ifvg6Zjkw7F6ws1/embed?start=false&loop=false&delayms=3000
+	
+	jogo cores https://color.method.ac/
+	
+	Slides Tipografia https://docs.google.com/presentation/d/e/2PACX-1vQ-fTjceZBLRAXtIxH93Ofgd1uPyZxs8RbNOuAFOWFrSxzzeoGFjUxSRKrh2yXDe1_BSBB2hwx4srtd/embed?start=false&loop=false&delayms=3000
+	
+	Video tipografia https://youtu.be/9Y_TmjIczos
+	
+	Escala harmônica para tipografia
+
+		Definir uma escala para o contexto do seu site. Ex:
+
+		    11px (texto de comentário, nota pequena, etc.)
+		    14px  (botão)
+		    18px (corpo de texto)
+		    24px (destaque..)
+		    36px (subtítulo) 
+		    48px (título)
+
+		Addon - Google Chrome
+
+		    Whatfont
+
+		Pareamento de tipos
+
+		    Usar apenas uma
+		    Usar 2 que seja diferentes (usar tipos complementares)
+			Serifada ou semi-serifada para título
+			sem serifa para texto
+
+		Sites com referências de boas soluções de tipografia
+
+		    https://www.awwwards.com/websites/typography/  (exemplos na modalidade tipografia) - avaliação com Juri.
+		    https://looka.com/blog/font-trends-2022/ (Tendência de Fontes para 2022)
+		    https://madebyshape.co.uk/web-design-blog/50-best-free-fonts-for-designers-in-2022/ 
+		    https://www.typewolf.com/ (site exemplo com boas tipografias - Exemplo de pareamento - variação de fonte na mesma aplicação)
+
+	Acesse os links abaixo e desafie o seu conhecimento sobre alguns conceitos da tipografia.
+
+		    https://type.method.ac/# (ajuste o kerning)
+		    https://typewar.com/ (acertar o nome da tipografia)
+		    https://fathom.info/ragtime/ (ajustar a diagramação)
+	video tipografia https://youtu.be/BWnrXwqxLdw
+	
+	Video planejamento visual https://youtu.be/vCttJEO-qK0
+	
+	Slides Planejamento Visual https://docs.google.com/presentation/d/e/2PACX-1vS13UIx53AK9KRrnd0NVZIuk2SSLxoTVP-RdzwYTitaUS019CJCvnfEKBrzpzu5jBASEwBtBvQWJLJW/embed?start=false&loop=false&delayms=3000
+
